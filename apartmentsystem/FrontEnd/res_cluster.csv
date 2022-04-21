@@ -1,0 +1,1000 @@
+,name,latitude,longitude,zipcode,rating,categories,transactions,cluster,centroids
+0,Wah Fung No 1,40.71735,-73.99457,10002,4.5,"[{'alias': 'hotdogs', 'title': 'Fast Food'}, {'alias': 'cantonese', 'title': 'Cantonese'}]",['delivery'],86,0
+1,Kora,40.75120864,-73.95004515,11101,4.5,"[{'alias': 'filipino', 'title': 'Filipino'}, {'alias': 'donuts', 'title': 'Donuts'}, {'alias': 'desserts', 'title': 'Desserts'}]",['delivery'],142,0
+2,Birria LES,40.71962885,-73.98711402,10002,4,"[{'alias': 'halal', 'title': 'Halal'}, {'alias': 'tacos', 'title': 'Tacos'}]",[],141,0
+3,Win Son,40.70747,-73.94339,11206,4,"[{'alias': 'taiwanese', 'title': 'Taiwanese'}, {'alias': 'newamerican', 'title': 'American (New)'}]",['delivery'],193,0
+4,Mika,40.705116,-73.931991,11206,4.5,"[{'alias': 'poolhalls', 'title': 'Pool Halls'}, {'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",['delivery'],103,0
+5,Momofuku Ssam Bar,40.70547602,-74.0016428,10038,4,"[{'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'steak', 'title': 'Steakhouses'}]",[],105,0
+6,Omusubi Gonbei,40.750701,-73.976961,10017,4.5,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'foodstands', 'title': 'Food Stands'}]",['delivery'],88,0
+7,Ugly Baby,40.67795,-73.9961,11231,4.5,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'bars', 'title': 'Bars'}]",['delivery'],59,0
+8,Kjun,40.7296335,-73.9877893,10003,5,"[{'alias': 'korean', 'title': 'Korean'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]","['delivery', 'pickup']",109,0
+9,SMASHED,40.721819,-73.988605,10002,4,"[{'alias': 'burgers', 'title': 'Burgers'}]","['delivery', 'pickup']",141,0
+10,BCD Tofu House,40.747509,-73.986079,10001,4,"[{'alias': 'korean', 'title': 'Korean'}]",[],98,0
+11,Birria Landia Williamsburg,40.7139049,-73.95196261,11211,4.5,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'tacos', 'title': 'Tacos'}]",[],14,0
+12,8282,40.72161,-73.98875,10002,4.5,"[{'alias': 'korean', 'title': 'Korean'}]",[],141,0
+13,Boxed To-Go,40.72936,-73.98884,10003,4.5,"[{'alias': 'japanese', 'title': 'Japanese'}]",[],109,0
+14,Kimika,40.720572,-73.995206,10012,4,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",['delivery'],86,0
+15,Double Chicken Please,40.719584,-73.990486,10002,4.5,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]","['delivery', 'pickup']",141,0
+16,Sunny and Annie's,40.724653,-73.981702,10003,4.5,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'delis', 'title': 'Delis'}, {'alias': 'grocery', 'title': 'Grocery'}]",['delivery'],154,0
+17,Casa Birria NYC,40.778824,-73.953986,10028,5,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'tacos', 'title': 'Tacos'}]",['delivery'],45,0
+18,Sushi Lab Rooftop NYC,40.75848903,-73.98320701,10036,4,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'bars', 'title': 'Bars'}]",[],184,0
+19,Fresh Salt,40.70707,-74.00244,10038,4,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}]",['delivery'],105,0
+20,Williamsburg Smorgasburg - Saturday,40.721021,-73.962177,11211,4.5,"[{'alias': 'foodstands', 'title': 'Food Stands'}]",[],140,0
+21,shabushabu Mayumon,40.71434,-73.99205,10002,5,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'hotpot', 'title': 'Hot Pot'}]",['restaurant_reservation'],62,0
+22,Fong On,40.71417,-73.9937,10002,4.5,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'desserts', 'title': 'Desserts'}]",['delivery'],62,1
+23,The Food Sermon Kitchen,40.6985551,-73.9712029,11205,4.5,"[{'alias': 'caribbean', 'title': 'Caribbean'}]","['delivery', 'pickup']",188,0
+24,Xi'an Famous Foods,40.715082,-73.997342,10013,4,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'noodles', 'title': 'Noodles'}]",['delivery'],86,0
+25,Canal Street Market,40.71897,-74.00102,10013,4,"[{'alias': 'food_court', 'title': 'Food Court'}]",[],194,0
+26,B&B Restaurant Corporation,40.7459112,-73.9936086,10001,4.5,"[{'alias': 'african', 'title': 'African'}, {'alias': 'caribbean', 'title': 'Caribbean'}]","['delivery', 'pickup']",146,0
+27,Otis,40.706011,-73.932598,11206,5,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]","['delivery', 'pickup']",103,0
+28,Fishmarket Restaurant,40.70717,-74.00192,10038,4.5,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'divebars', 'title': 'Dive Bars'}, {'alias': 'malaysian', 'title': 'Malaysian'}]",['delivery'],105,0
+29,Taqueria Ramirez,40.72787614,-73.95699203,11222,5,"[{'alias': 'mexican', 'title': 'Mexican'}]",[],124,0
+30,BOHO's Kitchen,40.72072,-73.98864,10002,4.5,"[{'alias': 'izakaya', 'title': 'Izakaya'}, {'alias': 'chicken_wings', 'title': 'Chicken Wings'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]",[],141,0
+31,Lillo Cucina Italiana,40.69023,-73.99634,11201,5,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'italian', 'title': 'Italian'}]",['delivery'],19,0
+32,Tadaima,40.656024,-74.006553,11232,5,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'cakeshop', 'title': 'Patisserie/Cake Shop'}]",[],8,0
+33,For All Things Good,40.68763001,-73.95682007,11238,4.5,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'mexican', 'title': 'Mexican'}]",['delivery'],11,0
+34,Banh,40.80085,-73.96562,10025,4.5,"[{'alias': 'vietnamese', 'title': 'Vietnamese'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",['delivery'],6,0
+35,Yi Ji Shi Mo Noodle Corp,40.71824,-73.99583,10013,4.5,"[{'alias': 'chinese', 'title': 'Chinese'}]",['delivery'],86,0
+36,Landhaus,40.7043648,-73.9933243,11201,4,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}]",[],160,0
+37,Woorijip,40.74747,-73.98648,10001,4,"[{'alias': 'korean', 'title': 'Korean'}]","['delivery', 'pickup']",98,0
+38,Spicy Village,40.71695,-73.99327,10002,4,"[{'alias': 'chinese', 'title': 'Chinese'}]","['delivery', 'pickup']",62,0
+39,Oxomoco,40.7299099,-73.95548,11222,4,"[{'alias': 'mexican', 'title': 'Mexican'}]",['delivery'],124,0
+40,Pecking House,40.69004,-73.96538,11205,4,"[{'alias': 'cantonese', 'title': 'Cantonese'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",[],73,0
+41,Butler,40.70326707,-73.99224193,11201,4,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'cafes', 'title': 'Cafes'}]","['delivery', 'pickup']",160,0
+42,Dekalb Market Hall,40.691025,-73.983311,11201,4,"[{'alias': 'food_court', 'title': 'Food Court'}]",[],40,0
+43,Samurai Mama,40.71402088,-73.96032572,11211,4,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'noodles', 'title': 'Noodles'}]","['delivery', 'pickup']",132,0
+44,Duckedup,40.7205,-73.98826,10002,4.5,"[{'alias': 'dimsum', 'title': 'Dim Sum'}]",[],141,0
+45,Chote Miya,40.70341948,-73.99160732,11201,4.5,"[{'alias': 'indpak', 'title': 'Indian'}]",['delivery'],160,0
+46,Cheong Fun Cart On Rutgers,40.71395,-73.98996,10002,5,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'foodstands', 'title': 'Food Stands'}]",['delivery'],62,0
+47,Pasta Louise,40.666091,-73.9787254,11215,4.5,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'pastashops', 'title': 'Pasta Shops'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",['delivery'],182,0
+48,Aldama,40.71099971,-73.96489654,11249,4,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",[],165,0
+49,Cheong Fun Cart,40.71762798,-73.99637369,10013,4.5,"[{'alias': 'foodstands', 'title': 'Food Stands'}, {'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'streetvendors', 'title': 'Street Vendors'}]",['delivery'],86,1
+50,Cheong Fun Cart,40.71762798,-73.99637369,10013,4.5,"[{'alias': 'foodstands', 'title': 'Food Stands'}, {'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'streetvendors', 'title': 'Street Vendors'}]",['delivery'],86,0
+51,Jongro Rice Hot Dog,40.7478606,-73.98684282,10001,4,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'korean', 'title': 'Korean'}]",['delivery'],98,0
+52,Xi'an Famous Foods,40.69212,-73.9867,11201,4,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'burgers', 'title': 'Burgers'}]",['delivery'],40,0
+53,The Binc,40.69925,-73.99227,11201,4.5,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",['delivery'],160,0
+54,Forever Taste,40.71293,-73.98994,10002,4,"[{'alias': 'chinese', 'title': 'Chinese'}]",['delivery'],62,1
+55,Niche,40.71786,-73.98518,10002,4,"[{'alias': 'japanese', 'title': 'Japanese'}]",[],38,0
+56,Fornino,40.69287353,-74.00169323,11201,4,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'pizza', 'title': 'Pizza'}]",[],175,0
+57,Cobble Fish,40.70530195,-74.00257774,10038,4.5,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",[],105,0
+58,Ursula BK,40.672656,-73.954677,11216,4.5,"[{'alias': 'newmexican', 'title': 'New Mexican Cuisine'}, {'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'bakeries', 'title': 'Bakeries'}]",[],145,0
+59,Lucky Paan,40.74215002,-73.982722,10016,5,"[{'alias': 'gourmet', 'title': 'Specialty Food'}]",[],2,0
+60,Diner,40.71069,-73.96559,11249,4,"[{'alias': 'diners', 'title': 'Diners'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",['delivery'],39,0
+61,The Commodore,40.71382571,-73.95560503,11211,4,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]","['pickup', 'delivery']",132,0
+62,Lava Shawarma,40.71964,-73.98507,10002,4.5,"[{'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'mideastern', 'title': 'Middle Eastern'}]","['pickup', 'delivery']",38,0
+63,Smith Gourmet Deli,40.68751,-73.99007,11201,5,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'salad', 'title': 'Salad'}, {'alias': 'delis', 'title': 'Delis'}]",['delivery'],40,0
+64,Sobak,40.71497048,-73.99158544,10002,5,"[{'alias': 'korean', 'title': 'Korean'}]",[],62,0
+65,Yakiniku Toraji,40.75105,-73.97278,10017,4.5,"[{'alias': 'bbq', 'title': 'Barbeque'}]",[],88,0
+66,Yakitori Taisho,40.729516,-73.98927,10003,3.5,"[{'alias': 'japanese', 'title': 'Japanese'}]","['pickup', 'delivery']",109,0
+67,Ippudo Westside,40.76344,-73.98661,10019,4,"[{'alias': 'ramen', 'title': 'Ramen'}]","['pickup', 'delivery']",184,0
+68,Sushi Gallery,40.69759707,-73.99336608,11201,4.5,"[{'alias': 'sushi', 'title': 'Sushi Bars'}]",['delivery'],19,0
+69,Boomshakalaka NY,40.69245,-73.99137,11201,4.5,"[{'alias': 'desserts', 'title': 'Desserts'}]",[],19,0
+70,Evelina,40.689722,-73.971003,11205,4.5,"[{'alias': 'italian', 'title': 'Italian'}]","['pickup', 'delivery']",73,0
+71,Charles?? Pan Fried Chicken,40.77796,-73.98054,10023,4,"[{'alias': 'soulfood', 'title': 'Soul Food'}, {'alias': 'chickenshop', 'title': 'Chicken Shop'}, {'alias': 'chicken_wings', 'title': 'Chicken Wings'}]",[],94,0
+72,Coco Bistro,40.70757,-74.00184,10038,4.5,"[{'alias': 'french', 'title': 'French'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",[],105,0
+73,The Hugh,40.75878,-73.97048,10022,4.5,"[{'alias': 'food_court', 'title': 'Food Court'}]",[],66,0
+74,Jasleen Deli,40.6846109,-73.950225,11216,4.5,"[{'alias': 'delis', 'title': 'Delis'}]",[],163,0
+75,Farmers Market at Brooklyn Bridge Park's Pier 6,40.692036,-74.000534,11201,5,"[{'alias': 'farmersmarket', 'title': 'Farmers Market'}]",[],175,0
+76,La Bonbonniere,40.73777,-74.00433627,10014,4,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'diners', 'title': 'Diners'}]",['delivery'],122,0
+77,Sauced,40.71267014,-73.96231945,11211,4,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",['delivery'],165,0
+78,Bernie's,40.721936,-73.950597,11222,4.5,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",[],99,0
+79,Walter's,40.68941116,-73.97325897,11217,4,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]","['pickup', 'delivery']",190,0
+80,Van ?a,40.72341,-73.98307,10009,4,"[{'alias': 'vietnamese', 'title': 'Vietnamese'}]","['pickup', 'delivery']",154,0
+81,Rice Noodle Cart,40.717931,-74.000283,10013,4.5,"[{'alias': 'cantonese', 'title': 'Cantonese'}, {'alias': 'streetvendors', 'title': 'Street Vendors'}]",['delivery'],86,0
+82,Steak Freak,40.75455834,-73.98425339,10020,4.5,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'steak', 'title': 'Steakhouses'}]",[],98,0
+83,Nami Nori,40.71913965,-73.95284073,11211,4.5,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'gluten_free', 'title': 'Gluten-Free'}]",[],99,0
+84,Maru 2,40.74163627,-74.00073601,10011,4.5,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'korean', 'title': 'Korean'}]","['pickup', 'delivery']",77,0
+85,Burrow,40.7027217,-73.9868878,11201,4.5,"[{'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'cakeshop', 'title': 'Patisserie/Cake Shop'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",['delivery'],80,0
+86,Peaches HotHouse,40.68336997,-73.94377984,11216,4,"[{'alias': 'southern', 'title': 'Southern'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'bars', 'title': 'Bars'}]","['pickup', 'delivery']",163,0
+87,A&A Bake and Double and Roti Shop,40.68043,-73.94795,11216,4.5,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'trinidadian', 'title': 'Trinidadian'}, {'alias': 'hotdogs', 'title': 'Fast Food'}]",[],163,0
+88,Pueblo Querido,40.71957104,-73.96326007,11249,5,"[{'alias': 'coffeeroasteries', 'title': 'Coffee Roasteries'}, {'alias': 'bakeries', 'title': 'Bakeries'}]",['delivery'],140,0
+89,Sofreh,40.6798617,-73.973984,11217,4,"[{'alias': 'persian', 'title': 'Persian/Iranian'}]",['delivery'],134,0
+90,Place des F?tes,40.68691,-73.96289,11238,5,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'seafood', 'title': 'Seafood'}]",[],113,0
+91,Nite Nite,40.70785,-73.94476,11206,4.5,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",['delivery'],193,0
+92,Taqueria Tepango,40.6937857,-73.9616331,11205,4,"[{'alias': 'mexican', 'title': 'Mexican'}]",['delivery'],11,0
+93,Yamadaya,40.73501,-73.99808,10011,4.5,"[{'alias': 'cosmetics', 'title': 'Cosmetics & Beauty Supply'}, {'alias': 'accessories', 'title': 'Accessories'}, {'alias': 'intlgrocery', 'title': 'International Grocery'}]",[],77,0
+94,Rolo's,40.70195477,-73.903537,11385,4.5,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",[],130,0
+95,Chez Ma Tante,40.72689661,-73.95740361,11222,4.5,"[{'alias': 'newamerican', 'title': 'American (New)'}]",['delivery'],124,0
+96,Koko?? ,40.71114001,-73.94830304,11211,5,"[{'alias': 'izakaya', 'title': 'Izakaya'}, {'alias': 'peruvian', 'title': 'Peruvian'}]","['pickup', 'delivery']",193,0
+97,The Rice Noodle,40.729087,-74.001525,10012,4,"[{'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'hotdogs', 'title': 'Fast Food'}, {'alias': 'chinese', 'title': 'Chinese'}]","['pickup', 'delivery']",33,0
+98,Tacos El Bronco,40.65006,-74.00915,11220,4,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",['delivery'],8,0
+99,The 99 Cent Taco Truck,40.790896,-73.9451536,10029,5,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}]",[],115,1
+100,The Rice Noodle,40.729087,-74.001525,10012,4,"[{'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'hotdogs', 'title': 'Fast Food'}, {'alias': 'chinese', 'title': 'Chinese'}]","['pickup', 'delivery']",33,0
+101,Tacos El Bronco,40.65006,-74.00915,11220,4,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",['delivery'],8,0
+102,The 99 Cent Taco Truck,40.790896,-73.9451536,10029,5,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}]",[],115,0
+103,Sweetwater Restaurant,40.7184736,-73.9600178,11249,4,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'bars', 'title': 'Bars'}]",[],140,0
+104,Pizza Yard,40.698572,-73.971197,11205,4,"[{'alias': 'pizza', 'title': 'Pizza'}]","['pickup', 'delivery']",188,0
+105,Peter?? Crunchy Red Tacos,40.70305,-73.9193,11237,4,"[{'alias': 'tacos', 'title': 'Tacos'}, {'alias': 'foodtrucks', 'title': 'Food Trucks'}]",[],32,0
+106,Brooklyn Gourmet Deli,40.713143,-73.962035,11211,4.5,"[{'alias': 'delis', 'title': 'Delis'}]",[],165,0
+107,Daigo Handroll Bar,40.690884,-73.982863,11201,4.5,"[{'alias': 'sushi', 'title': 'Sushi Bars'}]","['pickup', 'delivery']",40,0
+108,YunShang Rice Noodle House,40.635291,-74.011219,11220,4,"[{'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]","['pickup', 'delivery']",151,0
+109,Farmer In the Deli,40.69333,-73.97172,11205,4.5,"[{'alias': 'delis', 'title': 'Delis'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]","['pickup', 'delivery']",188,0
+110,Noodle Pudding,40.69979,-73.99203,11201,4,"[{'alias': 'italian', 'title': 'Italian'}]",['delivery'],160,0
+111,To Date Japanese Food,40.637337,-74.008481,11220,4.5,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'sushi', 'title': 'Sushi Bars'}]","['pickup', 'delivery']",151,0
+112,MONO+MONO,40.72549,-73.98803,10003,4,"[{'alias': 'korean', 'title': 'Korean'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'desserts', 'title': 'Desserts'}]","['pickup', 'delivery']",109,0
+113,Juliana's - Time Out Market,40.703447,-73.99215,11201,4,"[{'alias': 'pizza', 'title': 'Pizza'}]",[],160,0
+114,NAYA - Union Sq,40.73347074,-73.9930257,10003,4,"[{'alias': 'lebanese', 'title': 'Lebanese'}, {'alias': 'mediterranean', 'title': 'Mediterranean'}]",[],16,0
+115,Rao's,40.79392,-73.93427,10029,4.5,"[{'alias': 'italian', 'title': 'Italian'}]",['delivery'],199,1
+116,Russ & Daughters - Brooklyn,40.69799,-73.97116,11205,3,"[{'alias': 'bagels', 'title': 'Bagels'}, {'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'delis', 'title': 'Delis'}]",['delivery'],188,0
+117,Ruby's - Murray Hill,40.74364,-73.97985,10016,4,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'australian', 'title': 'Australian'}]","['pickup', 'delivery']",2,0
+118,S Wan Cafe ?????,40.71725,-73.99254,10002,4.5,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'hkcafe', 'title': 'Hong Kong Style Cafe'}]",['delivery'],62,0
+119,Peck's,40.693489,-73.967376,11205,4,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]","['pickup', 'delivery']",73,0
+120,House of Small Wonder,40.718991,-73.960833,11249,4,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'japanese', 'title': 'Japanese'}]",[],140,0
+121,White Noise Coffee Co,40.6896242,-73.9882489,11201,4.5,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}]",['delivery'],40,0
+122,Kill It Then Grill It,40.71829107,-73.99416399,10002,4,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}]",[],86,0
+123,The Honey Well,40.82849,-73.94862,10031,4.5,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'whiskeybars', 'title': 'Whiskey Bars'}]","['pickup', 'restaurant_reservation', 'delivery']",89,0
+124,Tacocina,40.715238,-73.967644,11249,3.5,"[{'alias': 'tacos', 'title': 'Tacos'}, {'alias': 'foodstands', 'title': 'Food Stands'}]",['delivery'],39,0
+125,Thai Sidewalk,40.7024794,-73.9885649,11201,4.5,"[{'alias': 'streetvendors', 'title': 'Street Vendors'}, {'alias': 'thai', 'title': 'Thai'}]",[],80,1
+126,Brooklyn Ice House,40.67919,-74.011099,11231,4.5,"[{'alias': 'bbq', 'title': 'Barbeque'}, {'alias': 'pubs', 'title': 'Pubs'}]","['pickup', 'delivery']",91,0
+127,Paulie Gee's Slice Shop,40.72836,-73.9572,11222,4,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}]",['delivery'],124,0
+128,Frankel's Delicatessen,40.723826,-73.9509979,11222,4,"[{'alias': 'delis', 'title': 'Delis'}, {'alias': 'bagels', 'title': 'Bagels'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",['delivery'],99,0
+129,Almondine Bakery,40.7033174,-73.9912506,11201,4,"[{'alias': 'bakeries', 'title': 'Bakeries'}]",['delivery'],160,0
+130,Swell Dive,40.68918386,-73.95496096,11205,4,"[{'alias': 'filipino', 'title': 'Filipino'}, {'alias': 'tacos', 'title': 'Tacos'}, {'alias': 'bars', 'title': 'Bars'}]","['pickup', 'delivery']",11,0
+131,Roy's Fish Market,40.76173473,-73.96041717,10065,4.5,"[{'alias': 'seafoodmarkets', 'title': 'Seafood Markets'}, {'alias': 'sushi', 'title': 'Sushi Bars'}]","['pickup', 'delivery']",104,0
+132,Piccola Cucina Uptown,40.763174,-73.969046,10022,4.5,"[{'alias': 'sicilian', 'title': 'Sicilian'}]","['pickup', 'delivery']",66,0
+133,HVRMINN,40.70308,-73.98392,11201,4,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}]",[],80,0
+134,Bohemien Bar,40.691171,-73.99704,11201,4,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]","['pickup', 'delivery']",19,0
+135,Bo Hai Dumpling Town,40.714058,-73.987381,10002,5,"[{'alias': 'chinese', 'title': 'Chinese'}]",[],38,0
+136,Negril BK,40.67501,-73.98163,11215,4,"[{'alias': 'caribbean', 'title': 'Caribbean'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]","['pickup', 'delivery']",76,0
+137,The Burrito Box,40.76831,-73.98565,10019,4,"[{'alias': 'mexican', 'title': 'Mexican'}]",['delivery'],90,0
+138,Madre,40.73311,-73.95798,11222,4.5,"[{'alias': 'newamerican', 'title': 'American (New)'}]",['delivery'],124,0
+139,E-Mo,40.7471962,-73.9861908,10001,4,"[{'alias': 'korean', 'title': 'Korean'}]",['delivery'],98,0
+140,Barking Dog,40.76240731,-73.98781845,10019,4.5,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'sportsbars', 'title': 'Sports Bars'}]",[],184,0
+141,Popina,40.68736196,-74.00142519,11231,4.5,"[{'alias': 'southern', 'title': 'Southern'}, {'alias': 'italian', 'title': 'Italian'}]",['delivery'],175,0
+142,John's Coffee Donut Shop,40.693641,-73.966094,11205,4,"[{'alias': 'diners', 'title': 'Diners'}]",['delivery'],73,0
+143,Pinky's Space,40.72355,-73.98879,10003,4.5,"[{'alias': 'french', 'title': 'French'}, {'alias': 'southern', 'title': 'Southern'}]","['pickup', 'delivery']",141,0
+144,David Burke TImeout Market,40.7034191,-73.992147,11201,4.5,"[{'alias': 'newamerican', 'title': 'American (New)'}]",[],160,0
+145,Leroy's,40.7335102,-73.95834024,11222,4.5,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'seafood', 'title': 'Seafood'}]",[],124,0
+146,Rosalu Diner,40.69004,-73.96538,11205,4.5,"[{'alias': 'diners', 'title': 'Diners'}]",['delivery'],73,1
+147,Cee Cee's Empanadas,40.72204159,-73.98022074,10009,4.5,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'empanadas', 'title': 'Empanadas'}]",[],154,0
+148,Mum Feteer,40.766842,-73.912843,11103,4.5,"[{'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'egyptian', 'title': 'Egyptian'}]","['pickup', 'delivery']",185,0
+149,Sushi On Me,40.746444,-73.893947,11372,5,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'sushi', 'title': 'Sushi Bars'}]",['delivery'],4,0
+150,Lotus + Cleaver,40.7486281,-73.9385852,11101,4.5,"[{'alias': 'chinese', 'title': 'Chinese'}]",['delivery'],23,0
+151,The Rookery,40.7073514,-73.9222454,11237,4,"[{'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]",['delivery'],32,0
+152,Taco Vista,40.69275589,-74.01454791,10004,3.5,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'tex-mex', 'title': 'Tex-Mex'}]",[],143,0
+153,Raffetto's,40.72816,-74.00172,10012,4.5,"[{'alias': 'gourmet', 'title': 'Specialty Food'}]",['delivery'],33,0
+154,Panzerotti Bites,40.683715,-73.99227,11231,5,"[{'alias': 'italian', 'title': 'Italian'}]",['delivery'],59,0
+155,Soba Totto,40.75122,-73.97317,10017,4,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'salad', 'title': 'Salad'}, {'alias': 'bars', 'title': 'Bars'}]","['pickup', 'delivery']",88,0
+156,Traditional Chinese Food Cart,40.7293724,-73.995937,10014,4.5,"[{'alias': 'chinese', 'title': 'Chinese'}]",[],33,0
+157,Thai on Clinton,40.69392537,-73.99241131,11201,4.5,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'thai', 'title': 'Thai'}]",[],19,0
+158,M and J Navy Yard Sub Shoppe,40.697725,-73.972933,11205,4,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}]",[],188,0
+159,Sidewalk Tacos,40.7284088,-73.9996719,10012,4,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'foodtrucks', 'title': 'Food Trucks'}]",[],33,0
+160,The Levee,40.71633038,-73.96172047,11211,4,"[{'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'bars', 'title': 'Bars'}]",['delivery'],140,0
+161,Sottocasa Pizzeria,40.688285,-73.989006,11201,4.5,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}]",['delivery'],40,0
+162,Traif,40.710658,-73.958872,11211,4.5,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]","['pickup', 'delivery']",132,0
+163,Verlaine,40.720079,-73.987785,10002,4,"[{'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'vietnamese', 'title': 'Vietnamese'}]",['pickup'],141,0
+164,Amy Thai Bistro,40.66055,-73.9604851,11225,4.5,"[{'alias': 'thai', 'title': 'Thai'}]",['delivery'],85,0
+165,Little Tiffin,40.73225761,-73.95438027,11222,4.5,"[{'alias': 'thai', 'title': 'Thai'}]",['delivery'],124,0
+166,Meat Asia,40.67748693,-74.0184446,11231,4,"[{'alias': 'foodstands', 'title': 'Food Stands'}, {'alias': 'bbq', 'title': 'Barbeque'}]",[],91,1
+167,Poppi,40.76987208,-73.96722469,10021,4,"[{'alias': 'cafes', 'title': 'Cafes'}]",[],66,0
+168,Karls Balls,40.7988472,-73.96797943,10025,4.5,"[{'alias': 'foodstands', 'title': 'Food Stands'}, {'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'popuprestaurants', 'title': 'Pop-Up Restaurants'}]",[],6,0
+169,Forno Rosso,40.694467,-73.98293,11201,4,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]","['pickup', 'delivery']",40,0
+170,Junzi Kitchen,40.72878,-74.00061,10012,4,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'salad', 'title': 'Salad'}]","['pickup', 'delivery']",33,0
+171,NG?? Kitchen,40.63531305,-74.00996862,11220,4,"[{'alias': 'cantonese', 'title': 'Cantonese'}, {'alias': 'soup', 'title': 'Soup'}, {'alias': 'noodles', 'title': 'Noodles'}]",[],151,0
+172,Habibi Halal Food,40.7401285,-73.9855201,10011,4.5,"[{'alias': 'halal', 'title': 'Halal'}, {'alias': 'foodstands', 'title': 'Food Stands'}]",['delivery'],146,0
+173,Merguez & Frites,40.767726,-73.911449,11106,4.5,"[{'alias': 'halal', 'title': 'Halal'}, {'alias': 'african', 'title': 'African'}]",['delivery'],185,1
+174,Pozzo Vivo,40.76182,-73.98994,10036,4.5,"[{'alias': 'italian', 'title': 'Italian'}]",[],184,0
+175,The Flying Cock,40.74535,-73.97821,10016,4,"[{'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]","['pickup', 'delivery']",2,0
+176,Dos Toros Taqueria,40.73368155,-73.98970494,10003,4,"[{'alias': 'mexican', 'title': 'Mexican'}]",['delivery'],16,0
+177,Ms Yoo,40.72121,-73.98978,10002,4,"[{'alias': 'korean', 'title': 'Korean'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]",['delivery'],141,0
+178,Saraghina Pizzeria,40.6837407,-73.9353473,11233,4,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'bars', 'title': 'Bars'}]",['delivery'],119,0
+179,ALIDORO,40.72572,-74.00287,10012,4,"[{'alias': 'gourmet', 'title': 'Specialty Food'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",['delivery'],194,0
+180,Hong Kong Station,40.71512,-73.99729,10013,3,"[{'alias': 'hkcafe', 'title': 'Hong Kong Style Cafe'}, {'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",[],86,1
+181,King David Tacos,40.672302,-73.97004,11238,4,"[{'alias': 'streetvendors', 'title': 'Street Vendors'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'tex-mex', 'title': 'Tex-Mex'}]",[],134,0
+182,Veronica's Kitchen,40.7056046,-74.00642488,10005,4,"[{'alias': 'soulfood', 'title': 'Soul Food'}, {'alias': 'foodstands', 'title': 'Food Stands'}, {'alias': 'trinidadian', 'title': 'Trinidadian'}]",[],105,1
+183,Peppa's Jerk Chicken,40.7213317,-73.9883667,10002,4,"[{'alias': 'caribbean', 'title': 'Caribbean'}, {'alias': 'chickenshop', 'title': 'Chicken Shop'}]",[],141,0
+184,Annie?? First Wok,40.70154,-73.98456,11201,5,"[{'alias': 'chinese', 'title': 'Chinese'}]",['delivery'],80,0
+185,Upstate Craft Beer & Oyster Bar,40.726373,-73.986557,10003,4.5,"[{'alias': 'seafood', 'title': 'Seafood'}]","['delivery', 'restaurant_reservation']",109,1
+186,Marian??,40.68803,-73.92722,11221,4,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'jazzandblues', 'title': 'Jazz & Blues'}, {'alias': 'cafes', 'title': 'Cafes'}]",[],75,0
+187,Red Bowl,40.71757,-73.99695,10013,4.5,"[{'alias': 'dimsum', 'title': 'Dim Sum'}, {'alias': 'gourmet', 'title': 'Specialty Food'}]",[],86,1
+188,Lion's Milk,40.7159199,-73.9558,11211,4.5,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'turkish', 'title': 'Turkish'}]","['pickup', 'delivery']",132,0
+189,Noz Market,40.77383465,-73.9579557,10075,4,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'sushi', 'title': 'Sushi Bars'}]",['delivery'],45,1
+190,Frenchette Bakery,40.716923,-74.0067618,10013,5,"[{'alias': 'bakeries', 'title': 'Bakeries'}]",['delivery'],125,1
+191,Threes Brewing Greenpoint,40.73025,-73.95781,11222,4,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'breweries', 'title': 'Breweries'}, {'alias': 'burgers', 'title': 'Burgers'}]",['delivery'],124,0
+192,Pig & Butter,40.720224,-73.988099,10002,4,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'cookingclasses', 'title': 'Cooking Classes'}]","['pickup', 'delivery']",141,0
+193,Great NY Noodle Town,40.71503638,-73.99711724,10013,3.5,"[{'alias': 'cantonese', 'title': 'Cantonese'}, {'alias': 'noodles', 'title': 'Noodles'}]","['pickup', 'delivery']",62,0
+194,Morgan's Barbecue,40.679879,-73.974093,11217,3.5,"[{'alias': 'bbq', 'title': 'Barbeque'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]","['pickup', 'delivery']",134,0
+195,Bistro So,40.71755,-73.95603,11211,5,"[{'alias': 'brasseries', 'title': 'Brasseries'}, {'alias': 'french', 'title': 'French'}]",[],132,0
+196,Arrogant Swine,40.71009569,-73.93340304,11237,3.5,"[{'alias': 'bbq', 'title': 'Barbeque'}]","['pickup', 'delivery']",103,0
+197,Juban,40.74731,-74.00467,10011,4,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'seafood', 'title': 'Seafood'}]",['delivery'],150,0
+198,The Roost,40.7290935,-73.9785323,10009,4,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'cafes', 'title': 'Cafes'}]",[],154,0
+199,Sushi Lab,40.758417,-73.983301,10036,4.5,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}]","['pickup', 'delivery']",184,0
+200,Tacos El Bronco,40.65237,-74.00274,11232,4.5,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'burgers', 'title': 'Burgers'}]",[],8,1
+201,Luigi's Pizzeria,40.6897,-73.965369,11205,4.5,"[{'alias': 'pizza', 'title': 'Pizza'}]",['delivery'],73,0
+202,Tagmo Treats,40.70763741,-74.00217503,10038,4.5,"[{'alias': 'desserts', 'title': 'Desserts'}]",[],105,0
+203,Aurora,40.715621,-73.964757,11249,4,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'comfortfood', 'title': 'Comfort Food'}]","['delivery', 'pickup']",39,0
+204,Ampersand,40.73861788,-73.98342069,10010,4.5,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}]",['delivery'],2,0
+205,Damascus Bakery,40.70322,-73.98308,11201,4,"[{'alias': 'bakeries', 'title': 'Bakeries'}]",['delivery'],80,0
+206,Parlor Coffee,40.69748,-73.97041,11205,4.5,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}]",['delivery'],188,0
+207,Ali's Trinidad Roti Shop,40.68065,-73.95061,11216,4,"[{'alias': 'trinidadian', 'title': 'Trinidadian'}]",[],163,0
+208,Llama San,40.73225,-74.00078,10014,4,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'peruvian', 'title': 'Peruvian'}]",['delivery'],33,0
+209,The River Caf?,40.70386671,-73.9947936,11201,4,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",[],160,0
+210,B'artusi,40.73401,-74.00607,10014,4.5,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",[],122,0
+211,La Isla Cafe,40.71727,-73.98321,10002,4,"[{'alias': 'latin', 'title': 'Latin American'}]",[],38,0
+212,19 @ Juku - Omakase,40.7146,-73.9995299,10013,4.5,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'izakaya', 'title': 'Izakaya'}]",[],86,0
+213,Fascati Pizza,40.6985,-73.99273,11201,4,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}]",['delivery'],160,0
+214,Dainobu,40.736282,-73.9972,10011,4.5,"[{'alias': 'delis', 'title': 'Delis'}, {'alias': 'grocery', 'title': 'Grocery'}, {'alias': 'importedfood', 'title': 'Imported Food'}]",[],77,0
+215,Tailfeather,40.69415,-73.96089,11205,5,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'pizza', 'title': 'Pizza'}]",['delivery'],11,0
+216,Xi'an Famous Foods,40.72433017,-73.95092994,11222,4,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'burgers', 'title': 'Burgers'}]",['delivery'],99,0
+217,While We Were Young,40.73437,-74.00272,10014,4,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",['delivery'],122,0
+218,Ming's Caffe,40.714321,-73.990509,10002,4,"[{'alias': 'hkcafe', 'title': 'Hong Kong Style Cafe'}, {'alias': 'dimsum', 'title': 'Dim Sum'}]","['delivery', 'pickup']",62,0
+219,Dinner Party,40.68692,-73.97469,11217,5,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",[],190,0
+220,Franklin820,40.66995,-73.95839,11225,4,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]","['delivery', 'pickup']",3,0
+221,Chez Moi,40.69073058,-73.99551244,11201,4,"[{'alias': 'french', 'title': 'French'}, {'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]","['delivery', 'pickup']",19,0
+222,The Bowery Market,40.72664,-73.99202,10012,4,"[{'alias': 'food_court', 'title': 'Food Court'}]",['delivery'],109,1
+223,King's Kitchen,40.71399,-73.99367,10002,4,"[{'alias': 'chinese', 'title': 'Chinese'}]","['delivery', 'pickup']",62,0
+224,Eastern Parkway BBQ Man,40.67045,-73.95806,11225,4.5,"[{'alias': 'bbq', 'title': 'Barbeque'}, {'alias': 'streetvendors', 'title': 'Street Vendors'}]",[],3,0
+225,99 Favor Taste - New York,40.7176199,-73.99249,10002,4,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'hotpot', 'title': 'Hot Pot'}, {'alias': 'bbq', 'title': 'Barbeque'}]","['delivery', 'pickup']",62,0
+226,Pips,40.690902,-73.995738,11201,4,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",['delivery'],19,0
+227,YUJI Ramen,40.712527,-73.9487788,11211,4,"[{'alias': 'ramen', 'title': 'Ramen'}, {'alias': 'noodles', 'title': 'Noodles'}]",[],14,0
+228,The View at The Battery,40.70279,-74.01388,10004,4,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'eventplanning', 'title': 'Party & Event Planning'}, {'alias': 'wedding_planning', 'title': 'Wedding Planning'}]",['delivery'],147,0
+229,Cafe Erzulie,40.6979,-73.93716,11206,4,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]","['delivery', 'pickup']",153,0
+230,CAVA,40.73378978,-73.98960786,10003,4.5,"[{'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'salad', 'title': 'Salad'}]",[],16,0
+231,Penny Bridge,40.74835,-73.9394,11101,4.5,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]","['delivery', 'pickup']",23,0
+232,Freemans,40.721988,-73.992466,10002,4,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'lounges', 'title': 'Lounges'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]","['delivery', 'pickup']",141,0
+233,Le French Tart Deli,40.6996979,-73.99207807,11201,4.5,"[{'alias': 'delis', 'title': 'Delis'}, {'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",[],160,0
+234,Leland Eating and Drinking House ,40.67982211,-73.96511883,11238,4.5,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'mediterranean', 'title': 'Mediterranean'}]",['delivery'],113,0
+235,Hart's Restaurant,40.68146,-73.95589,11238,4,"[{'alias': 'newamerican', 'title': 'American (New)'}]",['delivery'],113,0
+236,Tiki Chick,40.7034191,-73.99234698,11201,4,"[{'alias': 'fooddeliveryservices', 'title': 'Food Delivery Services'}, {'alias': 'burgers', 'title': 'Burgers'}]",[],160,0
+237,Williamsburg Bagel,40.707384,-73.961024,11211,4,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'bagels', 'title': 'Bagels'}]","['delivery', 'pickup']",165,0
+238,Shui Mei Cafe,40.7135318,-73.9948386,10002,4.5,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'chinese', 'title': 'Chinese'}]",['delivery'],62,0
+239,Bac?n,40.71585569,-73.9641488,11249,4,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'bars', 'title': 'Bars'}]",[],140,0
+240,Mr Khao Man Gai,40.74606,-73.94842,11101,5,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'thai', 'title': 'Thai'}]",[],142,1
+241,Terasa North Ninth,40.71897,-73.95634,11211,4.5,"[{'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",['delivery'],140,0
+242,Streecha,40.728496,-73.9889284,10003,4.5,"[{'alias': 'ukrainian', 'title': 'Ukrainian'}]",['delivery'],109,1
+243,Blank Street Coffee,40.70318,-73.98686,11201,5,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}]",[],80,0
+244,Cutlets Sandwich Co.,40.71947,-73.95613,11249,4.5,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}]","['delivery', 'pickup']",99,0
+245,Nobone Korean Fried Chicken,40.718069,-73.958482,11249,4.5,"[{'alias': 'korean', 'title': 'Korean'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'chickenshop', 'title': 'Chicken Shop'}]","['delivery', 'pickup']",140,1
+246,Sippy Cafe,40.73226105,-73.95779777,11222,5,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]","['delivery', 'pickup']",124,1
+247,Lun?tico,40.6834345,-73.93461186,11233,4.5,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'musicvenues', 'title': 'Music Venues'}]",['delivery'],119,0
+248,For All Things Good,40.71272,-73.957,11211,5,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cafes', 'title': 'Cafes'}]",[],132,0
+249,Ops,40.70276,-73.9171,11237,4.5,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",['delivery'],32,1
+250,Blank Street Coffee,40.70318,-73.98686,11201,5,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}]",[],80,0
+251,Cutlets Sandwich Co.,40.71947,-73.95613,11249,4.5,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}]","['delivery', 'pickup']",99,0
+252,Nobone Korean Fried Chicken,40.718069,-73.958482,11249,4.5,"[{'alias': 'korean', 'title': 'Korean'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'chickenshop', 'title': 'Chicken Shop'}]","['delivery', 'pickup']",140,1
+253,Sippy Cafe,40.73226105,-73.95779777,11222,5,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]","['delivery', 'pickup']",124,1
+254,Lun?tico,40.6834345,-73.93461186,11233,4.5,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'musicvenues', 'title': 'Music Venues'}]",['delivery'],119,0
+255,For All Things Good,40.71272,-73.957,11211,5,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cafes', 'title': 'Cafes'}]",[],132,0
+256,Ops,40.70276,-73.9171,11237,4.5,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",['delivery'],32,0
+257,June,40.68606513,-73.99388911,11201,4,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'newamerican', 'title': 'American (New)'}]","['delivery', 'pickup']",175,0
+258,Spanish Diner at Mercado Little Spain,40.7522295,-74.0010816,10001,3.5,"[{'alias': 'spanish', 'title': 'Spanish'}]",['delivery'],150,0
+259,La Superior,40.71357,-73.96363,11211,3.5,"[{'alias': 'mexican', 'title': 'Mexican'}]",['delivery'],165,0
+260,Blueprint,40.6769,-73.980411,11217,4.5,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",['delivery'],76,0
+261,Gotham West Market,40.7624395,-73.9971462,10036,4,"[{'alias': 'food_court', 'title': 'Food Court'}]",[],155,0
+262,Bar B?te,40.6830416,-73.99283371,11231,4.5,"[{'alias': 'french', 'title': 'French'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",['delivery'],59,0
+263,Tacoway Beach,40.58900674,-73.81224718,11693,4,"[{'alias': 'mexican', 'title': 'Mexican'}]",[],108,0
+264,AKWAABA RESTAURANT,40.655952,-73.953308,11226,4,"[{'alias': 'african', 'title': 'African'}]",['delivery'],148,0
+265,Island Oyster,40.69314076,-74.01626453,11231,3,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}]",[],143,1
+266,The Four Horsemen,40.71305,-73.95732,11211,4.5,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}]",[],132,0
+267,Smithfield Hall,40.74475326,-73.99349399,10001,4,"[{'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'sportsbars', 'title': 'Sports Bars'}]",['delivery'],146,1
+268,Taste Good Malaysian Cuisine,40.74170903,-73.88219118,11373,4,"[{'alias': 'malaysian', 'title': 'Malaysian'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'soup', 'title': 'Soup'}]",['delivery'],118,0
+269,Perfect Picnic NYC,40.6912874,-74.0175545,10004,4.5,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}]",[],143,0
+270,Wafels & Dinges,40.73928452,-73.99893188,10011,4.5,"[{'alias': 'waffles', 'title': 'Waffles'}, {'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'icecream', 'title': 'Ice Cream & Frozen Yogurt'}]","['delivery', 'pickup']",77,0
+271,Burger IM,40.69395919,-73.96346564,11205,4.5,"[{'alias': 'burgers', 'title': 'Burgers'}]","['delivery', 'pickup']",73,0
+272,Warung Roadside,40.6967,-73.99003,11201,4.5,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'thai', 'title': 'Thai'}]",[],19,1
+273,ChinelosTacos  Birria Tacos,40.72962757,-73.99663995,10012,4,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'tacos', 'title': 'Tacos'}]",[],33,0
+274,Anella,40.73327,-73.95786,11222,4,"[{'alias': 'newamerican', 'title': 'American (New)'}]",['delivery'],124,1
+275,The Market,40.68877598,-73.9604237,11238,4,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",['delivery'],11,0
+276,Helen's,40.74029833,-74.00562667,10014,4.5,"[{'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'lounges', 'title': 'Lounges'}]",['restaurant_reservation'],122,0
+277,Knead Some Love NY,40.7663711,-74.0253715,7086,4.5,"[{'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'donuts', 'title': 'Donuts'}, {'alias': 'chocolate', 'title': 'Chocolatiers & Shops'}]",[],106,0
+278,Cecconi's Dumbo,40.70330633,-73.99165496,11201,3.5,"[{'alias': 'italian', 'title': 'Italian'}]",['delivery'],160,0
+279,Hibino,40.69017,-73.99637,11201,4,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'sushi', 'title': 'Sushi Bars'}]",['delivery'],19,0
+280,Taco Morelos,40.717799,-73.957446,11211,4,"[{'alias': 'mexican', 'title': 'Mexican'}]",['delivery'],140,0
+281,Bridge Coffee Shop,40.7022171,-73.98446655,11201,4.5,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'latin', 'title': 'Latin American'}]",['delivery'],80,1
+282,MrBeast Burger,40.740221,-73.952686,11101,5,"[{'alias': 'fooddeliveryservices', 'title': 'Food Delivery Services'}, {'alias': 'burgers', 'title': 'Burgers'}]","['delivery', 'pickup']",47,0
+283,Corgi Jianbing,40.729429,-73.997216,10012,5,"[{'alias': 'creperies', 'title': 'Creperies'}, {'alias': 'foodtrucks', 'title': 'Food Trucks'}]",[],33,0
+284,Uncle Chop Chop,40.73168832,-74.00164275,10014,4.5,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]","['delivery', 'pickup']",33,0
+285,Erotic Bakery,40.72506,-73.84549,11375,4,"[{'alias': 'bakeries', 'title': 'Bakeries'}]",[],149,0
+286,Xi Ne Du,40.71511491,-73.99724767,10013,5,"[{'alias': 'cantonese', 'title': 'Cantonese'}]",[],62,0
+287,Mao?? Bao,40.74807149,-74.00470625,10011,3.5,"[{'alias': 'shanghainese', 'title': 'Shanghainese'}]",[],150,0
+288,Wegmans,40.6982082,-73.9770145,11205,4,"[{'alias': 'grocery', 'title': 'Grocery'}]",[],188,1
+289,Korzo,40.66199,-73.99238,11215,4,"[{'alias': 'modern_european', 'title': 'Modern European'}, {'alias': 'burgers', 'title': 'Burgers'}]","['pickup', 'delivery']",97,0
+290,Baked Cheese Haus,40.75299243,-73.98329815,10018,4.5,"[{'alias': 'cheese', 'title': 'Cheese Shops'}]",[],98,0
+291,H Mart,40.730358,-73.988949,10003,4,"[{'alias': 'intlgrocery', 'title': 'International Grocery'}]",[],109,0
+292,Food Lover Bakery,40.61745,-73.98469,11204,5,"[{'alias': 'bakeries', 'title': 'Bakeries'}]",[],57,0
+293,Nili,40.67933087,-73.99579123,11231,4,"[{'alias': 'cafes', 'title': 'Cafes'}]",['delivery'],59,0
+294,21 Greenpoint,40.72978,-73.95992,11222,4,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",['delivery'],124,0
+295,Clinton St. Baking Company,40.703717,-73.991773,11201,3.5,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'foodstands', 'title': 'Food Stands'}]",[],160,0
+296,Sista's Place,40.68338,-73.950477,11216,4.5,"[{'alias': 'jazzandblues', 'title': 'Jazz & Blues'}, {'alias': 'restaurants', 'title': 'Restaurants'}]",[],163,0
+297,Rebecca's,40.6981613,-73.9340956,11206,4.5,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",['delivery'],153,1
+298,Velvet Brooklyn,40.71008479,-73.96257877,11211,4.5,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'cafes', 'title': 'Cafes'}]",['delivery'],165,0
+299,Fu Zhou Wei Zhong Wei Jia Xiang Feng Wei,40.713837,-73.99414,10002,4.5,"[{'alias': 'chinese', 'title': 'Chinese'}]",['delivery'],62,0
+300,Food Lover Bakery,40.61745,-73.98469,11204,5,"[{'alias': 'bakeries', 'title': 'Bakeries'}]",[],57,0
+301,Nili,40.67933087,-73.99579123,11231,4,"[{'alias': 'cafes', 'title': 'Cafes'}]",['delivery'],59,0
+302,21 Greenpoint,40.72978,-73.95992,11222,4,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",['delivery'],124,0
+303,Clinton St. Baking Company,40.703717,-73.991773,11201,3.5,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'foodstands', 'title': 'Food Stands'}]",[],160,0
+304,Sista's Place,40.68338,-73.950477,11216,4.5,"[{'alias': 'jazzandblues', 'title': 'Jazz & Blues'}, {'alias': 'restaurants', 'title': 'Restaurants'}]",[],163,0
+305,Rebecca's,40.6981613,-73.9340956,11206,4.5,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",['delivery'],153,0
+306,Velvet Brooklyn,40.71008479,-73.96257877,11211,4.5,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'cafes', 'title': 'Cafes'}]",['delivery'],165,0
+307,Fu Zhou Wei Zhong Wei Jia Xiang Feng Wei,40.713837,-73.99414,10002,4.5,"[{'alias': 'chinese', 'title': 'Chinese'}]",['delivery'],62,1
+308,Hudson Eats,40.7128272,-74.0156737,10080,3.5,"[{'alias': 'food_court', 'title': 'Food Court'}]",[],5,0
+309,Acapulco,40.7367,-73.95517,11222,4,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'newamerican', 'title': 'American (New)'}]",['delivery'],47,0
+310,Tengri Tagh Uyghur Cuisine,40.75246222,-73.98871967,10018,4.5,"[{'alias': 'halal', 'title': 'Halal'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'kebab', 'title': 'Kebab'}]","['delivery', 'pickup']",98,0
+311,The Narrows,40.704114,-73.930878,11237,4,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}]",['delivery'],103,0
+312,Tong,40.74854263,-73.89288447,11372,5,"[{'alias': 'bangladeshi', 'title': 'Bangladeshi'}, {'alias': 'foodtrucks', 'title': 'Food Trucks'}]",[],4,0
+313,Bea,40.7591968,-73.9923361,10036,4,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]","['delivery', 'restaurant_reservation']",155,0
+314,Momofuku Ko,40.72474046,-73.99144358,10003,4.5,"[{'alias': 'newamerican', 'title': 'American (New)'}]",[],141,0
+315,Taqueria 86,40.793,-73.97214,10025,5,"[{'alias': 'mexican', 'title': 'Mexican'}]","['delivery', 'pickup']",6,0
+316,Frida Midtown,40.75661089,-73.96919066,10022,4.5,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'peruvian', 'title': 'Peruvian'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]","['delivery', 'restaurant_reservation', 'pickup']",66,1
+317,DOMODOMO - New York,40.7280299,-74.00167,10012,4.5,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'sushi', 'title': 'Sushi Bars'}]",['delivery'],33,0
+318,The Original Square Of Soho,40.70740305,-73.93186589,11237,5,"[{'alias': 'pizza', 'title': 'Pizza'}]",[],103,0
+319,MogMog,40.74243,-73.95522,11101,5,"[{'alias': 'seafoodmarkets', 'title': 'Seafood Markets'}]",[],142,1
+320,BentOn Cafe,40.75278025,-73.97351739,10017,4,"[{'alias': 'japanese', 'title': 'Japanese'}]","['delivery', 'pickup']",88,0
+321,The Broadway,40.69096,-73.92488,11221,4,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'musicvenues', 'title': 'Music Venues'}, {'alias': 'noodles', 'title': 'Noodles'}]",[],75,1
+322,Okatte Tanto NY,40.75455,-73.96941,10017,5,"[{'alias': 'japanese', 'title': 'Japanese'}]",['restaurant_reservation'],88,0
+323,Saraghina Caff?,40.6897188,-73.9719095,11205,3.5,"[{'alias': 'cafes', 'title': 'Cafes'}]",[],73,0
+324,Leitao,40.73493,-74.00641,10014,4.5,"[{'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'portuguese', 'title': 'Portuguese'}]","['delivery', 'pickup']",122,0
+325,Hold Fast Kitchen & Spirits,40.76064,-73.99023,10036,5,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]","['delivery', 'pickup']",155,0
+326,Adrienne's Pizzabar,40.7043362,-74.0101733,10004,4,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]","['delivery', 'pickup']",147,1
+327,Man vs Fries,40.740221,-73.952686,11101,3.5,"[{'alias': 'fooddeliveryservices', 'title': 'Food Delivery Services'}, {'alias': 'hotdogs', 'title': 'Fast Food'}, {'alias': 'mexican', 'title': 'Mexican'}]","['delivery', 'pickup']",47,0
+328,Soho Halal Guy,40.72542672,-73.99675579,10012,4,"[{'alias': 'mideastern', 'title': 'Middle Eastern'}, {'alias': 'foodstands', 'title': 'Food Stands'}, {'alias': 'halal', 'title': 'Halal'}]",['delivery'],33,0
+329,Zongzi lady,40.7181661,-73.9938466,10002,4.5,"[{'alias': 'streetvendors', 'title': 'Street Vendors'}, {'alias': 'chinese', 'title': 'Chinese'}]",[],86,0
+330,Peas & Pickles,40.7026999,-73.9894591,11201,2.5,"[{'alias': 'markets', 'title': 'Fruits & Veggies'}]",[],160,0
+331,Toro,40.70259,-73.99317,11201,3,"[{'alias': 'japanese', 'title': 'Japanese'}]",[],160,0
+332,Little Wayla,40.71828,-73.99275,10002,4.5,"[{'alias': 'thai', 'title': 'Thai'}]",[],62,0
+333,Mighty Quinn's,40.72025463,-73.96252312,11211,4.5,"[{'alias': 'bbq', 'title': 'Barbeque'}]",[],140,0
+334,Smokey?? Island Grille,40.66795977,-73.90327667,11212,2.5,"[{'alias': 'caribbean', 'title': 'Caribbean'}]",['delivery'],137,0
+335,Bluebird,40.66182,-73.96174,11225,3.5,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]","['delivery', 'pickup']",85,0
+336,Skytown,40.69760484,-73.93607294,11206,4,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'cafes', 'title': 'Cafes'}]","['delivery', 'pickup']",153,0
+337,Hong Man,40.715145,-73.993698,10002,4,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'noodles', 'title': 'Noodles'}]",['delivery'],62,0
+338,Ganni's Pizza,40.69419,-73.957809,11205,3.5,"[{'alias': 'pizza', 'title': 'Pizza'}]",['delivery'],11,0
+339,The Bowl,40.72896103,-74.00980741,10014,5,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'foodtrucks', 'title': 'Food Trucks'}]",[],101,0
+340,foreverjerk 876,40.6700058,-73.89433289,11207,4,"[{'alias': 'streetvendors', 'title': 'Street Vendors'}]",[],137,0
+341,Lamazou,40.74125,-73.98162,10016,4.5,"[{'alias': 'cheese', 'title': 'Cheese Shops'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'catering', 'title': 'Caterers'}]","['delivery', 'pickup']",2,0
+342,Torien,40.724773,-73.993168,10012,4.5,"[{'alias': 'japanese', 'title': 'Japanese'}]",['delivery'],141,0
+343,Simon's BBQ II,40.6395142,-74.0053988,11220,3.5,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'bbq', 'title': 'Barbeque'}]",['delivery'],31,0
+344,Koneko,40.72044,-73.98412,10002,4.5,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'themedcafes', 'title': 'Themed Cafes'}]",['delivery'],38,0
+345,Kenka,40.72913,-73.988465,10003,3.5,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}]",['delivery'],109,0
+346,Cooper's Craft & Cocktails,40.742702,-74.000778,10011,4,"[{'alias': 'gastropubs', 'title': 'Gastropubs'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}]",['delivery'],77,0
+347,Puffy's Tavern,40.718555,-74.009078,10013,4,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",['delivery'],125,0
+348,Yogi Korean BBQ Tacos,40.75519033,-73.97122018,10017,4.5,"[{'alias': 'streetvendors', 'title': 'Street Vendors'}, {'alias': 'bbq', 'title': 'Barbeque'}]",[],88,1
+349,Matchaful,40.753246,-73.999267,10001,4,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}]",['delivery'],150,0
+350,Patty Haus,40.67173,-73.94995,11216,5,"[{'alias': 'salad', 'title': 'Salad'}, {'alias': 'juicebars', 'title': 'Juice Bars & Smoothies'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",[],145,0
+351,Tamale Lady,40.750843,-73.9801865,10016,5,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'foodstands', 'title': 'Food Stands'}]",[],98,0
+352,Sonia's Crab AND Finn,40.67556004,-73.94998748,11216,4.5,"[{'alias': 'caribbean', 'title': 'Caribbean'}, {'alias': 'seafood', 'title': 'Seafood'}]","['pickup', 'delivery']",145,0
+353,Big D's Grub Truck,40.703099,-73.9866598,11201,4,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'mexican', 'title': 'Mexican'}]",[],80,0
+354,Sereneco,40.73025024,-73.95781014,11222,4,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",[],124,1
+355,Neighbors,40.702241,-73.995539,11201,2.5,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'juicebars', 'title': 'Juice Bars & Smoothies'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",['delivery'],160,0
+356,Carne Mare,40.70568649,-74.00218961,10038,4.5,"[{'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'seafood', 'title': 'Seafood'}]",['delivery'],105,0
+357,Habana To-Go,40.72292,-73.99418,10012,4,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cuban', 'title': 'Cuban'}]","['pickup', 'delivery']",86,0
+358,Bass and Bourbon,40.68165278,-74.0046408,11231,5,"[{'alias': 'kosher', 'title': 'Kosher'}]",[],175,0
+359,Ten Ichi Mart & Deli,40.7171349,-73.961656,11249,4.5,"[{'alias': 'intlgrocery', 'title': 'International Grocery'}]",[],140,0
+360,Victor,40.67953002,-73.9868131,11217,4,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",['delivery'],76,1
+361,Little Eva's,40.68910631,-74.01803166,10004,3,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'bbq', 'title': 'Barbeque'}]",[],143,0
+362,Banh Mi Co Ut,40.718134,-73.996248,10013,4.5,"[{'alias': 'vietnamese', 'title': 'Vietnamese'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",['delivery'],86,0
+363,Gouie,40.71827888,-73.9881471,10002,5,"[{'alias': 'sushi', 'title': 'Sushi Bars'}]",[],141,0
+364,Luigi's Pizza,40.66163,-73.99334,11215,4.5,"[{'alias': 'pizza', 'title': 'Pizza'}]","['pickup', 'delivery']",97,0
+365,Onlyone ? ??????,40.64255,-74.00201,11220,4,"[{'alias': 'bubbletea', 'title': 'Bubble Tea'}]",['delivery'],31,0
+366,Evil Twin Brewing - Dumbo Taproom,40.702834,-73.9905026,11201,4.5,"[{'alias': 'breweries', 'title': 'Breweries'}]",[],160,0
+367,Cafe Fes,40.64569,-73.97283,11218,4.5,"[{'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'moroccan', 'title': 'Moroccan'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",[],60,0
+368,Virgin Mary Tacos,40.7400398,-73.9766541,10016,5,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'foodstands', 'title': 'Food Stands'}]",[],2,1
+369,Steinberg's Bakery,40.70024,-73.95711,11206,4.5,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'bakeries', 'title': 'Bakeries'}]",[],11,0
+370,El Diablo Taco Truck,40.71561477,-73.95210743,11211,4,"[{'alias': 'foodstands', 'title': 'Food Stands'}, {'alias': 'mexican', 'title': 'Mexican'}]",[],14,0
+371,Francie,40.71002579,-73.96405744,11249,4.5,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'brasseries', 'title': 'Brasseries'}]",['delivery'],165,0
+372,Ninety Nine Franklin,40.729337,-73.9577339,11222,5,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",[],124,0
+373,SnackBOX,40.75889,-73.98482,10036,4,"[{'alias': 'streetvendors', 'title': 'Street Vendors'}, {'alias': 'hotdog', 'title': 'Hot Dogs'}]",[],184,0
+374,Chelsea Market Place,40.739284,-73.999569,10011,4.5,"[{'alias': 'delis', 'title': 'Delis'}]",[],77,0
+375,Camillo,40.6596,-73.95081,11225,4,"[{'alias': 'italian', 'title': 'Italian'}]","['pickup', 'delivery']",191,0
+376,La Cantine,40.70664,-73.9206,11237,4.5,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]","['pickup', 'delivery']",32,0
+377,Purbird,40.67985,-73.97518,11217,4,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'chickenshop', 'title': 'Chicken Shop'}]","['pickup', 'delivery']",134,0
+378,Tacos G?ey,40.73997,-73.99323,10011,4,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'tacos', 'title': 'Tacos'}]",['delivery'],77,0
+379,Brennan & Carr,40.600247,-73.942094,11229,4,"[{'alias': 'tradamerican', 'title': 'American (Traditional)'}]",['delivery'],102,0
+380,Avenue D Pizza,40.72058,-73.978541,10009,4.5,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'puertorican', 'title': 'Puerto Rican'}, {'alias': 'dominican', 'title': 'Dominican'}]",[],154,0
+381,F & F Pizzeria,40.67732,-73.99817,11231,3.5,"[{'alias': 'pizza', 'title': 'Pizza'}]",['delivery'],59,0
+382,Damascus Bread & Pastry Shop,40.69005,-73.99307,11201,4.5,"[{'alias': 'bakeries', 'title': 'Bakeries'}]","['pickup', 'delivery']",19,0
+383,Lo-Res Bar,40.715984,-73.962577,11249,4.5,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'newamerican', 'title': 'American (New)'}]",['delivery'],140,0
+384,Supra Factor NYC,40.75675,-73.98271,10036,5,"[{'alias': 'georgian', 'title': 'Georgian'}, {'alias': 'foodtrucks', 'title': 'Food Trucks'}]",[],184,0
+385,Chuang's Hing Restaurant,40.68924,-73.98613,11201,4,"[{'alias': 'restaurants', 'title': 'Restaurants'}]",['delivery'],40,0
+386,Sisters,40.6828717,-73.9651809,11238,3,"[{'alias': 'musicvenues', 'title': 'Music Venues'}, {'alias': 'newamerican', 'title': 'American (New)'}]",['pickup'],113,0
+387,King Food / Halal Food,40.69326206,-73.98867757,11201,4.5,"[{'alias': 'streetvendors', 'title': 'Street Vendors'}]",[],19,0
+388,OXA House Coffee & Tea ,40.7103,-73.96513,11249,5,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}]",[],165,0
+389,Hakata Tonton,40.75002105,-73.985675,10001,4,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'fooddeliveryservices', 'title': 'Food Delivery Services'}]","['pickup', 'delivery']",98,0
+390,Tu Do Restaurant,40.71782392,-73.99533059,10013,4,"[{'alias': 'vietnamese', 'title': 'Vietnamese'}]",['delivery'],86,0
+391,99 C Pizza,40.71805784,-73.98573504,10002,5,"[{'alias': 'pizza', 'title': 'Pizza'}]",[],38,0
+392,Mighties,40.71827,-73.98806,10002,4,"[{'alias': 'burgers', 'title': 'Burgers'}]","['pickup', 'delivery']",141,0
+393,Great Burrito,40.7428322,-73.9930115,10011,4,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'mexican', 'title': 'Mexican'}]","['pickup', 'delivery']",146,0
+394,Izakaya NoMad,40.74409,-73.98945,10010,4,"[{'alias': 'gastropubs', 'title': 'Gastropubs'}, {'alias': 'izakaya', 'title': 'Izakaya'}, {'alias': 'bars', 'title': 'Bars'}]","['pickup', 'delivery']",146,0
+395,TenIchi Mart,40.687784,-73.990072,11201,4.5,"[{'alias': 'bubbletea', 'title': 'Bubble Tea'}, {'alias': 'intlgrocery', 'title': 'International Grocery'}]",[],40,0
+396,Gracefully,40.73651681,-73.97827372,10010,3,"[{'alias': 'grocery', 'title': 'Grocery'}]","['pickup', 'delivery']",2,0
+397,Chang Lai Fishballs & Noodles,40.718481,-73.994468,10002,5,"[{'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'streetvendors', 'title': 'Street Vendors'}]",['delivery'],86,0
+398,Nicandra's,40.69962,-73.915939,11237,4.5,"[{'alias': 'pastashops', 'title': 'Pasta Shops'}, {'alias': 'comfortfood', 'title': 'Comfort Food'}, {'alias': 'noodles', 'title': 'Noodles'}]",['delivery'],130,0
+399,Johnny's Reef Restaurant,40.83770996,-73.78267053,10464,4,"[{'alias': 'seafood', 'title': 'Seafood'}]",[],70,0
+400,Obentoyasan,40.656471,-74.008412,11232,4,"[{'alias': 'japanese', 'title': 'Japanese'}]",[],8,0
+401,Healthy Greens Gourmet Deli,40.73092866,-73.98917208,10003,4.5,"[{'alias': 'grocery', 'title': 'Grocery'}, {'alias': 'delis', 'title': 'Delis'}, {'alias': 'juicebars', 'title': 'Juice Bars & Smoothies'}]","['pickup', 'delivery']",109,1
+402,Hokkaido Cheese Tart,40.70836,-73.86841,11385,4,"[{'alias': 'desserts', 'title': 'Desserts'}]",[],129,0
+403,Hendu's Sandwich Shop,40.74790649,-73.94022425,11101,5,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'popuprestaurants', 'title': 'Pop-Up Restaurants'}]",[],23,0
+404,The Baroness Bar Burgers + Beer,40.74496,-73.95362,11101,4,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]",['delivery'],142,0
+405,Brooklyn Crab,40.6752649,-74.016568,11231,3,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'raw_food', 'title': 'Live/Raw Food'}]","['pickup', 'delivery']",91,0
+406,Atoboy,40.74364,-73.98456,10016,4.5,"[{'alias': 'korean', 'title': 'Korean'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",['delivery'],146,0
+407,El Ping?ino,40.7298,-73.95978,11222,5,"[{'alias': 'spanish', 'title': 'Spanish'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'bars', 'title': 'Bars'}]",[],124,0
+408,Shiro,40.77826,-73.97794,10023,4.5,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}]",['delivery'],94,0
+409,Mo's Original,40.66127,-73.95342,11225,4,"[{'alias': 'ramen', 'title': 'Ramen'}, {'alias': 'bbq', 'title': 'Barbeque'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]","['pickup', 'delivery']",191,0
+410,The Ear Inn,40.725925,-74.009489,10013,4,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]","['pickup', 'delivery']",101,0
+411,Masquerade,40.70782449,-73.95576788,11211,4.5,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'tapas', 'title': 'Tapas Bars'}, {'alias': 'persian', 'title': 'Persian/Iranian'}]",[],132,0
+412,Pilot,40.69643242,-73.98900109,11201,4,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'seafood', 'title': 'Seafood'}]",[],19,0
+413,Matchaful,40.72109,-74.00398,10013,4.5,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}]",['delivery'],194,0
+414,Capy,40.71804325,-73.99788643,10013,5,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'desserts', 'title': 'Desserts'}]",[],86,0
+415,Latino Bites,40.75585,-73.88258,11372,4,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'colombian', 'title': 'Colombian'}, {'alias': 'burgers', 'title': 'Burgers'}]",[],166,0
+416,Wings And Ribs,40.678741,-73.924388,11233,4.5,"[{'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'chicken_wings', 'title': 'Chicken Wings'}]",[],75,0
+417,Greenpoint Fish & Lobster,40.724128,-73.9491199,11222,4,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'seafoodmarkets', 'title': 'Seafood Markets'}]",[],99,0
+418,Empanada Lady,40.6819382,-73.993042,11231,4.5,"[{'alias': 'streetvendors', 'title': 'Street Vendors'}, {'alias': 'empanadas', 'title': 'Empanadas'}]",[],59,0
+419,Tortilleria Mexicana Los Hermanos,40.7066299,-73.92198,11237,4,"[{'alias': 'mexican', 'title': 'Mexican'}]",['delivery'],32,1
+420,Silver Spoon Cafe,40.73875,-74.00053,10011,5,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'catering', 'title': 'Caterers'}]","['pickup', 'delivery']",77,0
+421,Cooper's Craft & Cocktails,40.72704,-73.9892,10003,4,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]","['pickup', 'delivery']",109,0
+422,Hero Champ,40.65584,-74.00673,11232,4,"[{'alias': 'delis', 'title': 'Delis'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",['delivery'],8,0
+423,Weed World Candies,40.70356,-74.01235,10004,1,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'candy', 'title': 'Candy Stores'}]",[],147,0
+424,Asaba Kitchen,40.686661,-73.93167,11221,5,"[{'alias': 'african', 'title': 'African'}]",[],119,0
+425,One Stop Beer Shop,40.72103,-73.94074,11222,4.5,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]",['delivery'],198,1
+426,La Isla Cuchifrito,40.81711,-73.92271,10451,4,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'latin', 'title': 'Latin American'}, {'alias': 'puertorican', 'title': 'Puerto Rican'}]",['delivery'],136,0
+427,Ovenly,40.729904,-73.959579,11222,4,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",['delivery'],124,1
+428,De Hot Pot,40.66142,-73.96051,11225,4,"[{'alias': 'trinidadian', 'title': 'Trinidadian'}]",[],85,1
+429,Anything At All,40.7562,-73.95504,10044,4,"[{'alias': 'newamerican', 'title': 'American (New)'}]",[],173,1
+430,Nana Ramen,40.681549,-73.928995,11233,4,"[{'alias': 'ramen', 'title': 'Ramen'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'soup', 'title': 'Soup'}]",['delivery'],119,0
+431,Sonia Restaurant,40.671665,-73.99118,11215,4,"[{'alias': 'mexican', 'title': 'Mexican'}]",[],59,0
+432,Parlay,40.64633387,-73.9985003,11232,4,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",['delivery'],31,1
+433,Lechonera La Pira?a,40.81565498,-73.906244,10455,5,"[{'alias': 'foodstands', 'title': 'Food Stands'}, {'alias': 'latin', 'title': 'Latin American'}, {'alias': 'puertorican', 'title': 'Puerto Rican'}]",[],42,0
+434,Carthage Must Be Destroyed,40.711471,-73.935062,11206,3.5,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",['delivery'],103,0
+435,Fjord Fish Market,40.674733,-73.981415,11215,4.5,"[{'alias': 'seafoodmarkets', 'title': 'Seafood Markets'}]",[],76,0
+436,Reichenbach Hall,40.7508,-73.98401,10018,4,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'german', 'title': 'German'}, {'alias': 'pretzels', 'title': 'Pretzels'}]",['delivery'],98,0
+437,Pita Palace,40.7172335,-73.94504,11211,5,"[{'alias': 'mideastern', 'title': 'Middle Eastern'}, {'alias': 'falafel', 'title': 'Falafel'}]",['delivery'],14,1
+438,Mr. Taka Ramen,40.70374254,-73.99168097,11201,3,"[{'alias': 'ramen', 'title': 'Ramen'}]",[],160,0
+439,101 Wilson,40.70161063,-73.92713881,11237,4,"[{'alias': 'divebars', 'title': 'Dive Bars'}, {'alias': 'skate_parks', 'title': 'Skate Parks'}, {'alias': 'hotdog', 'title': 'Hot Dogs'}]",['delivery'],153,0
+440,"Mexican Tacos, Two Brothers",40.73392,-73.99112,10003,5,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'foodstands', 'title': 'Food Stands'}, {'alias': 'hotdogs', 'title': 'Fast Food'}]",[],16,0
+441,White Horse Tavern - Financial District,40.70372,-74.01237,10004,4,"[{'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",['delivery'],147,0
+442,Mother's Ruin,40.72135,-73.99502,10012,3.5,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]","['pickup', 'delivery']",86,0
+443,The Legend Cafe House,40.60992033,-74.00173131,11214,4,"[{'alias': 'juicebars', 'title': 'Juice Bars & Smoothies'}, {'alias': 'portuguese', 'title': 'Portuguese'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",['delivery'],187,0
+444,Laojie Hotpot,40.63897093,-74.00468469,11220,4.5,"[{'alias': 'hotpot', 'title': 'Hot Pot'}]",['delivery'],31,0
+445,Butler,40.7197884,-73.9591445,11249,4.5,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",[],140,1
+446,Bua,40.7268537,-73.9838067,10009,4,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]",['delivery'],154,0
+447,Calexico Cart,40.72538026,-74.0001002,10012,4,"[{'alias': 'streetvendors', 'title': 'Street Vendors'}]",[],33,1
+448,Mo's General,40.71562046,-73.9494481,11211,4.5,"[{'alias': 'pizza', 'title': 'Pizza'}]",[],14,1
+449,Barely Disfigured,40.68309,-73.9928,11231,4.5,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'tapas', 'title': 'Tapas Bars'}]",[],59,0
+450,Silver Light Tavern,40.71747,-73.95005,11211,5,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}]",['delivery'],14,0
+451,Asaba Kitchen,40.686661,-73.93167,11221,5,"[{'alias': 'african', 'title': 'African'}]",[],119,0
+452,Bar Goto Niban,40.6807879,-73.9756403,11217,4.5,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'comfortfood', 'title': 'Comfort Food'}]",['delivery'],134,0
+453,One Stop Beer Shop,40.72103,-73.94074,11222,4.5,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]",['delivery'],198,0
+454,La Isla Cuchifrito,40.81711,-73.92271,10451,4,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'latin', 'title': 'Latin American'}, {'alias': 'puertorican', 'title': 'Puerto Rican'}]",['delivery'],136,0
+455,Dig,40.7670907,-73.95687673,10021,4,"[{'alias': 'newamerican', 'title': 'American (New)'}]","['delivery', 'pickup']",177,0
+456,Ovenly,40.729904,-73.959579,11222,4,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",['delivery'],124,0
+457,De Hot Pot,40.66142,-73.96051,11225,4,"[{'alias': 'trinidadian', 'title': 'Trinidadian'}]",[],85,0
+458,Anything At All,40.7562,-73.95504,10044,4,"[{'alias': 'newamerican', 'title': 'American (New)'}]",[],173,0
+459,Nana Ramen,40.681549,-73.928995,11233,4,"[{'alias': 'ramen', 'title': 'Ramen'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'soup', 'title': 'Soup'}]",['delivery'],119,1
+460,Sonia Restaurant,40.671665,-73.99118,11215,4,"[{'alias': 'mexican', 'title': 'Mexican'}]",[],59,0
+461,Parlay,40.64633387,-73.9985003,11232,4,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",['delivery'],31,0
+462,Macosa Trattoria,40.6872641,-73.9449562,11216,4.5,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'comfortfood', 'title': 'Comfort Food'}]","['delivery', 'pickup']",163,0
+463,Lechonera La Pira?a,40.81565498,-73.906244,10455,5,"[{'alias': 'foodstands', 'title': 'Food Stands'}, {'alias': 'latin', 'title': 'Latin American'}, {'alias': 'puertorican', 'title': 'Puerto Rican'}]",[],42,0
+464,Carthage Must Be Destroyed,40.711471,-73.935062,11206,3.5,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",['delivery'],103,0
+465,Fjord Fish Market,40.674733,-73.981415,11215,4.5,"[{'alias': 'seafoodmarkets', 'title': 'Seafood Markets'}]",[],76,0
+466,Bozu,40.7129,-73.95749,11211,4,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'bars', 'title': 'Bars'}]",['delivery'],132,1
+467,Reichenbach Hall,40.7508,-73.98401,10018,4,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'german', 'title': 'German'}, {'alias': 'pretzels', 'title': 'Pretzels'}]",['delivery'],98,0
+468,Pita Palace,40.7172335,-73.94504,11211,5,"[{'alias': 'mideastern', 'title': 'Middle Eastern'}, {'alias': 'falafel', 'title': 'Falafel'}]",['delivery'],14,0
+469,Mr. Taka Ramen,40.70374254,-73.99168097,11201,3,"[{'alias': 'ramen', 'title': 'Ramen'}]",[],160,0
+470,101 Wilson,40.70161063,-73.92713881,11237,4,"[{'alias': 'divebars', 'title': 'Dive Bars'}, {'alias': 'skate_parks', 'title': 'Skate Parks'}, {'alias': 'hotdog', 'title': 'Hot Dogs'}]",['delivery'],153,0
+471,"Mexican Tacos, Two Brothers",40.73392,-73.99112,10003,5,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'foodstands', 'title': 'Food Stands'}, {'alias': 'hotdogs', 'title': 'Fast Food'}]",[],16,0
+472,White Horse Tavern - Financial District,40.70372,-74.01237,10004,4,"[{'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",['delivery'],147,1
+473,Mother's Ruin,40.72135,-73.99502,10012,3.5,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]","['delivery', 'pickup']",86,0
+474,The Legend Cafe House,40.60992033,-74.00173131,11214,4,"[{'alias': 'juicebars', 'title': 'Juice Bars & Smoothies'}, {'alias': 'portuguese', 'title': 'Portuguese'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",['delivery'],187,0
+475,Laojie Hotpot,40.63897093,-74.00468469,11220,4.5,"[{'alias': 'hotpot', 'title': 'Hot Pot'}]",['delivery'],31,1
+476,Butler,40.7197884,-73.9591445,11249,4.5,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",[],140,1
+477,Bua,40.7268537,-73.9838067,10009,4,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]",['delivery'],154,0
+478,Calexico Cart,40.72538026,-74.0001002,10012,4,"[{'alias': 'streetvendors', 'title': 'Street Vendors'}]",[],33,0
+479,yasouvlaki,40.7803,-73.95312,10128,4,"[{'alias': 'greek', 'title': 'Greek'}]",[],45,0
+480,Mo's General,40.71562046,-73.9494481,11211,4.5,"[{'alias': 'pizza', 'title': 'Pizza'}]",[],14,0
+481,Peak,40.7541644,-74.0009082,10001,4.5,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'lounges', 'title': 'Lounges'}]",[],150,0
+482,Barely Disfigured,40.68309,-73.9928,11231,4.5,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'tapas', 'title': 'Tapas Bars'}]",[],59,0
+483,Soul Food Kitchen,40.676666,-73.941665,11213,4,"[{'alias': 'soulfood', 'title': 'Soul Food'}]","['delivery', 'pickup']",46,0
+484,Nook,40.705189,-73.924549,11237,4.5,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]",['delivery'],32,0
+485,Emmett's,40.727303,-74.00243,10012,4,"[{'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]","['pickup', 'delivery']",33,0
+486,Kettl,40.7296233,-73.9581423,11222,4.5,"[{'alias': 'tea', 'title': 'Tea Rooms'}, {'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'giftshops', 'title': 'Gift Shops'}]",[],124,1
+487,Bagels & Schmear,40.742899,-73.98331665,10016,4,"[{'alias': 'bagels', 'title': 'Bagels'}, {'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",['delivery'],2,0
+488,Head Hi,40.69742,-73.97187,11205,5,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'bookstores', 'title': 'Bookstores'}, {'alias': 'galleries', 'title': 'Art Galleries'}]","['delivery', 'pickup']",188,0
+489,As Is NYC,40.7645799,-73.9914759,10019,4,"[{'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'newamerican', 'title': 'American (New)'}]",['delivery'],155,0
+490,Eastwood,40.714155,-73.987064,10002,4,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]","['delivery', 'pickup']",38,0
+491,Cafe Volkan,40.68669,-73.99003,11201,5,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'cafes', 'title': 'Cafes'}]",['delivery'],40,0
+492,Galinha,40.72613,-74.004997,10013,4,"[{'alias': 'bbq', 'title': 'Barbeque'}, {'alias': 'portuguese', 'title': 'Portuguese'}]","['delivery', 'pickup']",194,0
+493,Troost,40.733463,-73.955095,11222,4,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",['delivery'],124,0
+494,Pyza,40.724237,-73.94878,11222,4.5,"[{'alias': 'polish', 'title': 'Polish'}]",['delivery'],99,0
+495,Antojitos El Atoradero,40.67893369,-73.98301723,11217,5,"[{'alias': 'mexican', 'title': 'Mexican'}]",[],76,0
+496,Belo,40.7461,-73.91584,11104,5,"[{'alias': 'bbq', 'title': 'Barbeque'}]",[],135,1
+497,Steinberg's Bakery,40.7068459,-73.9634131,11211,5,"[{'alias': 'bakeries', 'title': 'Bakeries'}]",[],165,0
+498,Palmetto,40.701776,-73.923065,11237,5,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",[],32,0
+499,The Fly,40.68191,-73.95848,11216,3.5,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'chickenshop', 'title': 'Chicken Shop'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",['delivery'],113,0
+500,Death By Pizza,40.73917688,-74.00179948,10011,4.5,"[{'alias': 'pizza', 'title': 'Pizza'}]",[],77,0
+501,Peakaboo,40.75403127,-74.00018509,10001,4.5,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'bars', 'title': 'Bars'}]",[],150,1
+502,El Vez Burrito Bar,40.71473564,-74.015635,10282,4,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'salad', 'title': 'Salad'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",[],5,0
+503,Henry's End,40.6987126,-73.9926384,11201,4,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'diners', 'title': 'Diners'}, {'alias': 'bars', 'title': 'Bars'}]",['delivery'],160,0
+504,Kong Kee,40.719047,-73.996139,10002,4,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'foodstands', 'title': 'Food Stands'}]",[],86,0
+505,Carmen?? Kitchen,40.70958,-74.00813,10038,4.5,"[{'alias': 'tradamerican', 'title': 'American (Traditional)'}]",[],105,0
+506,Golden Eggies,40.723545,-73.985601,11354,5,"[{'alias': 'waffles', 'title': 'Waffles'}, {'alias': 'foodstands', 'title': 'Food Stands'}]",[],141,0
+507,FeiLong Noodle King,40.63888,-74.00941,11220,5,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'noodles', 'title': 'Noodles'}]",[],151,0
+508,Gongo,40.72931309,-73.98886944,10003,5,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'speakeasies', 'title': 'Speakeasies'}]",[],109,0
+509,THE HUNTRESS whiskey n' wings,40.7525626,-73.93958727,11101,4,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'chicken_wings', 'title': 'Chicken Wings'}, {'alias': 'burgers', 'title': 'Burgers'}]",['delivery'],23,0
+510,Xi??n Famous Foods,40.70919,-74.00934,10038,4,"[{'alias': 'chinese', 'title': 'Chinese'}]",['delivery'],147,0
+511,Rafiqi's Delicious Food,40.7273167,-74.00710713,10014,4.5,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}]",[],101,0
+512,Moe's Doughs Donut Shop,40.7243431,-73.9484718,11222,4.5,"[{'alias': 'donuts', 'title': 'Donuts'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",['delivery'],99,0
+513,Cachapa On Wheels,40.71744,-73.958,11211,4,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}]",[],140,0
+514,Bake Culture,40.64381,-74.07618,10301,5,"[{'alias': 'bubbletea', 'title': 'Bubble Tea'}, {'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'desserts', 'title': 'Desserts'}]",[],87,0
+515,Jiang Nan,40.71681949,-74.0387321,7302,5,"[{'alias': 'chinese', 'title': 'Chinese'}]",[],84,0
+516,Sixty Three Clinton,40.71946,-73.98498,10002,4.5,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",[],38,0
+517,Yolanda's Tamales,40.821342,-73.953975,10031,5,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'foodstands', 'title': 'Food Stands'}]",[],114,0
+518,Liu's Shanghai,40.60264119,-74.00387665,11214,4.5,"[{'alias': 'shanghainese', 'title': 'Shanghainese'}]",[],95,0
+519,Shipwreck Gourmet Fish Boutique,40.6881156,-73.9546684,11216,4.5,"[{'alias': 'seafoodmarkets', 'title': 'Seafood Markets'}]",[],11,1
+520,Yaki Taco,40.68820697,-74.01771315,10004,3.5,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'japanese', 'title': 'Japanese'}]",[],143,1
+521,CAVA,40.721964,-73.996499,10012,4,"[{'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'salad', 'title': 'Salad'}]",[],86,1
+522,Terry and Yaki,40.76732946,-73.96303739,10065,4.5,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'halal', 'title': 'Halal'}]",[],104,0
+523,Inday,40.70233,-74.01147,10004,4.5,"[{'alias': 'indpak', 'title': 'Indian'}]",[],147,0
+524,Lisa's Dumplings,40.76894692,-73.98240671,10019,4,"[{'alias': 'chinese', 'title': 'Chinese'}]",[],30,0
+525,Lox,40.70638881,-74.01866584,10280,4,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'kosher', 'title': 'Kosher'}]","['delivery', 'pickup']",5,0
+526,Golden Steamer,40.71877,-73.99679,10013,4.5,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",['delivery'],86,0
+527,Talon,40.70104192,-73.91436204,11237,4,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",['delivery'],130,0
+528,The Williamsburg Hotel Restaurant,40.72161,-73.95884,11249,4,"[{'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'mideastern', 'title': 'Middle Eastern'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]","['delivery', 'pickup']",140,0
+529,Chiu Hong Bakery,40.71952308,-73.99641435,10013,4.5,"[{'alias': 'bakeries', 'title': 'Bakeries'}]",[],86,0
+530,Joseph Leonard,40.73360217,-74.00167541,10014,4,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'french', 'title': 'French'}]",['delivery'],33,0
+531,Sugarcane Daddy,40.71678,-73.99968,10013,5,"[{'alias': 'juicebars', 'title': 'Juice Bars & Smoothies'}]",[],86,0
+532,Union Street Cafe,40.67817,-73.9853,11215,4,"[{'alias': 'diners', 'title': 'Diners'}]",[],76,0
+533,Izzy's Brooklyn Smokehouse,40.66487,-73.9369,11213,4,"[{'alias': 'bbq', 'title': 'Barbeque'}, {'alias': 'kosher', 'title': 'Kosher'}, {'alias': 'smokehouse', 'title': 'Smokehouse'}]","['delivery', 'pickup']",156,0
+534,Sea Witch,40.660818,-73.993535,11215,4,"[{'alias': 'lounges', 'title': 'Lounges'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]",['delivery'],97,0
+535,The Mean Fiddler,40.7600569,-73.9871765,10036,4,"[{'alias': 'irish', 'title': 'Irish'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]","['delivery', 'pickup']",184,0
+536,232 Bleecker,40.730195,-74.002577,10014,4.5,"[{'alias': 'newamerican', 'title': 'American (New)'}]",['delivery'],33,1
+537,Yaadman Thing,40.64639213,-73.95680361,11226,5,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'catering', 'title': 'Caterers'}]",[],148,1
+538,Bravest,40.747115,-73.973961,10016,4,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]","['delivery', 'pickup']",88,0
+539,Frying Pan Brooklyn,40.657524,-74.007809,11232,4,"[{'alias': 'eatertainment', 'title': 'Eatertainment'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",['delivery'],8,0
+540,Jus' Bad Food,40.75816214,-73.95468835,10044,4.5,"[{'alias': 'restaurants', 'title': 'Restaurants'}]",[],173,0
+541,Cervo's,40.7149,-73.99132,10002,4,"[{'alias': 'seafood', 'title': 'Seafood'}]",['delivery'],62,0
+542,Terroir Tribeca,40.718805,-74.00999878,10013,4,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}]","['delivery', 'pickup']",125,0
+543,Ebisu Life Store,40.7205,-74.00113,10013,4.5,"[{'alias': 'cosmetics', 'title': 'Cosmetics & Beauty Supply'}, {'alias': 'convenience', 'title': 'Convenience Stores'}, {'alias': 'drugstores', 'title': 'Drugstores'}]",[],194,0
+544,Acme Smoked Fish,40.72542,-73.95662,11222,5,"[{'alias': 'seafoodmarkets', 'title': 'Seafood Markets'}]",[],99,0
+545,Aloha Sushi Bar,40.6931,-73.97216,11205,5,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'ramen', 'title': 'Ramen'}, {'alias': 'seafood', 'title': 'Seafood'}]","['delivery', 'pickup']",188,0
+546,One Lenox,40.76106,-73.96124,10065,4.5,"[{'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]","['delivery', 'pickup']",104,0
+547,Cantina 48,40.76497,-73.99607,10036,4,"[{'alias': 'lounges', 'title': 'Lounges'}, {'alias': 'mexican', 'title': 'Mexican'}]",['delivery'],155,0
+548,Bakeri,40.73431,-73.95753,11222,4,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",['delivery'],124,0
+549,Holy Ground Barbecue,40.7230819,-73.9540159,11222,4.5,"[{'alias': 'bbq', 'title': 'Barbeque'}]",[],99,0
+550,Izzy's Brooklyn Smokehouse,40.66487,-73.9369,11213,4,"[{'alias': 'bbq', 'title': 'Barbeque'}, {'alias': 'kosher', 'title': 'Kosher'}, {'alias': 'smokehouse', 'title': 'Smokehouse'}]","['pickup', 'delivery']",156,0
+551,Sea Witch,40.660818,-73.993535,11215,4,"[{'alias': 'lounges', 'title': 'Lounges'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]",['delivery'],97,0
+552,The Mean Fiddler,40.7600569,-73.9871765,10036,4,"[{'alias': 'irish', 'title': 'Irish'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]","['pickup', 'delivery']",184,0
+553,Yaadman Thing,40.64639213,-73.95680361,11226,5,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'catering', 'title': 'Caterers'}]",[],148,0
+554,Bravest,40.747115,-73.973961,10016,4,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]","['pickup', 'delivery']",88,0
+555,Frying Pan Brooklyn,40.657524,-74.007809,11232,4,"[{'alias': 'eatertainment', 'title': 'Eatertainment'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",['delivery'],8,0
+556,Jus' Bad Food,40.75816214,-73.95468835,10044,4.5,"[{'alias': 'restaurants', 'title': 'Restaurants'}]",[],173,0
+557,Cervo's,40.7149,-73.99132,10002,4,"[{'alias': 'seafood', 'title': 'Seafood'}]",['delivery'],62,1
+558,Terroir Tribeca,40.718805,-74.00999878,10013,4,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}]","['pickup', 'delivery']",125,1
+559,Ebisu Life Store,40.7205,-74.00113,10013,4.5,"[{'alias': 'cosmetics', 'title': 'Cosmetics & Beauty Supply'}, {'alias': 'convenience', 'title': 'Convenience Stores'}, {'alias': 'drugstores', 'title': 'Drugstores'}]",[],194,0
+560,Acme Smoked Fish,40.72542,-73.95662,11222,5,"[{'alias': 'seafoodmarkets', 'title': 'Seafood Markets'}]",[],99,0
+561,Aloha Sushi Bar,40.6931,-73.97216,11205,5,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'ramen', 'title': 'Ramen'}, {'alias': 'seafood', 'title': 'Seafood'}]","['pickup', 'delivery']",188,0
+562,One Lenox,40.76106,-73.96124,10065,4.5,"[{'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]","['pickup', 'delivery']",104,0
+563,Cantina 48,40.76497,-73.99607,10036,4,"[{'alias': 'lounges', 'title': 'Lounges'}, {'alias': 'mexican', 'title': 'Mexican'}]",['delivery'],155,1
+564,Bakeri,40.73431,-73.95753,11222,4,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",['delivery'],124,1
+565,Holy Ground Barbecue,40.7230819,-73.9540159,11222,4.5,"[{'alias': 'bbq', 'title': 'Barbeque'}]",[],99,0
+566,Fulgurances,40.72943,-73.95738,11222,4,"[{'alias': 'latin', 'title': 'Latin American'}]",[],124,0
+567,The Local Bar and Cafe,40.7495622,-73.9477008,11101,4.5,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'cafes', 'title': 'Cafes'}]",[],23,0
+568,Blind Tiger Ale House,40.731926,-74.003223,10014,4,"[{'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'pubs', 'title': 'Pubs'}]",['delivery'],33,1
+569,Papelon con Limon,40.693953,-73.93026,11221,4.5,"[{'alias': 'venezuelan', 'title': 'Venezuelan'}, {'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'salad', 'title': 'Salad'}]",['delivery'],153,0
+570,DumboLuv,40.70327,-73.98676,11201,4.5,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",['delivery'],80,0
+571,Hong Kong Street Cart,40.743203,-73.988795,10010,4,"[{'alias': 'streetvendors', 'title': 'Street Vendors'}]",[],146,0
+572,Berry Park,40.7224719,-73.9552526,11211,3.5,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'beergardens', 'title': 'Beer Gardens'}]",['delivery'],99,0
+573,Panchos,40.8015,-73.96534,10025,4.5,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]","['pickup', 'delivery']",6,0
+574,Goodnight Sonny,40.72768,-73.98502,10009,4,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]","['pickup', 'delivery']",109,0
+575,Chef's Table at Brooklyn Fare,40.75619308,-73.99660909,10018,4.5,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'seafood', 'title': 'Seafood'}]",[],34,0
+576,Magnolia Bakery,40.75116242,-73.99515052,10007,4.5,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'cupcakes', 'title': 'Cupcakes'}]",[],34,0
+577,Henry's Rooftop Bar,40.754799,-73.97314,10017,4,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'bars', 'title': 'Bars'}]",[],88,0
+578,Katagiri Japanese Grocery Store,40.76086,-73.96556,10022,4,"[{'alias': 'intlgrocery', 'title': 'International Grocery'}]",[],104,0
+579,Brooklyn Lantern,40.73762681,-73.95351014,11222,3.5,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]","['delivery', 'pickup']",47,0
+580,The Hop Shop Brooklyn,40.6875,-74.00135,11231,4.5,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'hotdog', 'title': 'Hot Dogs'}]",['delivery'],175,0
+581,Breadberry Local,40.64062,-73.9825,11218,5,"[{'alias': 'juicebars', 'title': 'Juice Bars & Smoothies'}, {'alias': 'salad', 'title': 'Salad'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",['delivery'],60,0
+582,Blue Marble,40.77785,-73.98183,10023,3.5,"[{'alias': 'icecream', 'title': 'Ice Cream & Frozen Yogurt'}, {'alias': 'desserts', 'title': 'Desserts'}]",[],94,0
+583,Mondo Lobster,40.678862,-73.9880208,11215,1,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}]",[],76,0
+584,Fancy Nancy,40.6895502,-73.9554046,11205,4,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]","['pickup', 'delivery']",11,0
+585,Porter,40.77452,-74.01155,7086,4,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'newamerican', 'title': 'American (New)'}]","['pickup', 'delivery']",29,0
+586,China North Dumpling,40.7158,-73.9898,10002,4,"[{'alias': 'chinese', 'title': 'Chinese'}]",['delivery'],62,0
+587,La Lechonera,40.6660919,-73.8836746,11207,4,"[{'alias': 'puertorican', 'title': 'Puerto Rican'}, {'alias': 'spanish', 'title': 'Spanish'}]",[],137,0
+588,Caf? Salmagundi,40.7362,-73.987525,10003,4,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'salad', 'title': 'Salad'}]",['delivery'],16,0
+589,Tacos Supremo,40.67294,-73.93086,11213,5,"[{'alias': 'mexican', 'title': 'Mexican'}]","['pickup', 'delivery']",156,1
+590,Cibao Restaurant,40.71916,-73.98484,10002,3.5,"[{'alias': 'dominican', 'title': 'Dominican'}]","['delivery', 'pickup']",38,0
+591,New Chin Chin Wu Restaurant,40.64904,-73.96446,11226,4.5,"[{'alias': 'chinese', 'title': 'Chinese'}]",[],60,1
+592,Shoo Shoo,40.72015,-73.99623,10013,4,"[{'alias': 'mediterranean', 'title': 'Mediterranean'}]","['pickup', 'delivery']",86,1
+593,Locanda Verde,40.71986013,-74.01003907,10013,4,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]","['pickup', 'delivery']",125,0
+594,Gyrohouse NYC,40.7088103,-74.0108584,10003,4,"[{'alias': 'halal', 'title': 'Halal'}, {'alias': 'foodstands', 'title': 'Food Stands'}, {'alias': 'mediterranean', 'title': 'Mediterranean'}]","['pickup', 'delivery']",147,0
+595,Lucky 7 Gourmet Deli,40.710703,-73.963894,11249,3.5,"[{'alias': 'bagels', 'title': 'Bagels'}]",['delivery'],165,0
+596,Saga,40.70642,-74.007666,10270,4.5,"[{'alias': 'french', 'title': 'French'}]","['pickup', 'delivery']",147,1
+597,Wards Meadow Comfort Station and Cafe,40.7830342,-73.93070307,10035,4,"[{'alias': 'cafes', 'title': 'Cafes'}]",[],131,0
+598,The Meat Hook,40.716759,-73.9449381,11211,4,"[{'alias': 'butcher', 'title': 'Butcher'}, {'alias': 'meats', 'title': 'Meat Shops'}]",[],14,0
+599,Lucky 7 Gourmet Deli,40.710703,-73.963894,11249,3.5,"[{'alias': 'bagels', 'title': 'Bagels'}]",['delivery'],165,0
+600,Saga,40.70642,-74.007666,10270,4.5,"[{'alias': 'french', 'title': 'French'}]","['pickup', 'delivery']",147,1
+601,Wards Meadow Comfort Station and Cafe,40.7830342,-73.93070307,10035,4,"[{'alias': 'cafes', 'title': 'Cafes'}]",[],131,0
+602,The Meat Hook,40.716759,-73.9449381,11211,4,"[{'alias': 'butcher', 'title': 'Butcher'}, {'alias': 'meats', 'title': 'Meat Shops'}]",[],14,1
+603,Las Buenas Nuevas,40.77427038,-74.032422,7087,5,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'latin', 'title': 'Latin American'}]",[],106,0
+604,Don Pepe Tortas & Jugos,40.651194,-74.004387,11232,4,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'juicebars', 'title': 'Juice Bars & Smoothies'}]","['pickup', 'delivery']",8,0
+605,Bonafini,40.65704,-73.96003,11225,4,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'italian', 'title': 'Italian'}]","['pickup', 'delivery']",85,0
+606,Spongies Cafe,40.717979,-73.998833,10013,4.5,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'bakeries', 'title': 'Bakeries'}]",['delivery'],86,0
+607,DSK Brooklyn,40.6857666,-73.9735353,11217,3.5,"[{'alias': 'german', 'title': 'German'}, {'alias': 'beergardens', 'title': 'Beer Gardens'}]",['delivery'],190,1
+608,Manhattanville Market,40.81154,-73.9539,10027,3.5,"[{'alias': 'food_court', 'title': 'Food Court'}]",[],114,0
+609,Anfora,40.73789,-74.00408,10014,4,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",['delivery'],122,0
+610,Tao Hong Bakery,40.71735,-73.9945679,10002,4.5,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'chinese', 'title': 'Chinese'}]",[],86,0
+611,Original's Soldier,40.67995458,-73.94254267,11216,4,"[{'alias': 'caribbean', 'title': 'Caribbean'}, {'alias': 'macarons', 'title': 'Macarons'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",['delivery'],163,0
+612,Cevabdzinica Sarajevo,40.757031,-73.9218943,11101,4,"[{'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'halal', 'title': 'Halal'}, {'alias': 'gourmet', 'title': 'Specialty Food'}]",['delivery'],72,1
+613,Sushi By Bae,40.73467,-73.98859,10003,4.5,"[{'alias': 'sushi', 'title': 'Sushi Bars'}]",[],16,0
+614,Otway,40.68274,-73.96388,11238,4,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",['delivery'],113,0
+615,Chinese Pinchos,40.71822608,-73.99391855,10002,4,"[{'alias': 'kebab', 'title': 'Kebab'}, {'alias': 'streetvendors', 'title': 'Street Vendors'}, {'alias': 'bbq', 'title': 'Barbeque'}]",[],86,0
+616,John Brown BBQ,40.75263,-73.93676,11101,4,"[{'alias': 'bbq', 'title': 'Barbeque'}]",['delivery'],23,0
+617,Gil's Grill and Deli,40.6417016,-73.98134051,11218,5,"[{'alias': 'juicebars', 'title': 'Juice Bars & Smoothies'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",[],60,0
+618,Tina's Place,40.70365,-73.93118,11206,4,"[{'alias': 'diners', 'title': 'Diners'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",['delivery'],103,0
+619,Chen's Buffet Bar,40.70712,-74.00845,10038,4,"[{'alias': 'chinese', 'title': 'Chinese'}]","['pickup', 'delivery']",147,0
+620,Bagelsmith,40.717584,-73.957854,11211,3.5,"[{'alias': 'bagels', 'title': 'Bagels'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]","['pickup', 'delivery']",140,0
+621,Jin Jin Hong Kong Cafe,40.620528,-73.989131,11204,3.5,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'hkcafe', 'title': 'Hong Kong Style Cafe'}, {'alias': 'sushi', 'title': 'Sushi Bars'}]",['delivery'],57,0
+622,Roberta's,40.71995521,-73.98304455,10002,5,"[{'alias': 'pizza', 'title': 'Pizza'}]","['pickup', 'delivery']",38,0
+623,Fu Shen Restaurant,40.63613483,-74.0127715,11220,3.5,"[{'alias': 'taiwanese', 'title': 'Taiwanese'}]","['pickup', 'delivery']",151,0
+624,Cuts & Slices,40.6854737,-73.9203186,11233,4.5,"[{'alias': 'pizza', 'title': 'Pizza'}]",['delivery'],75,0
+625,Swift,40.727309,-73.992387,10003,4,"[{'alias': 'lounges', 'title': 'Lounges'}, {'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",[],109,0
+626,Daytime,40.65859,-73.97811,11215,4.5,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",['delivery'],182,0
+627,NOMO Kitchen,40.7198301,-74.0000708,10013,3.5,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",['delivery'],194,0
+628,La Isla Cuchifritos,40.70099,-73.94199,11206,4,"[{'alias': 'spanish', 'title': 'Spanish'}, {'alias': 'puertorican', 'title': 'Puerto Rican'}, {'alias': 'latin', 'title': 'Latin American'}]",['delivery'],193,0
+629,Plymouth Cafe,40.69822,-73.9928,11201,3.5,"[{'alias': 'delis', 'title': 'Delis'}]",['delivery'],160,0
+630,Mr Coco,40.69289,-73.9692,11205,4.5,"[{'alias': 'grocery', 'title': 'Grocery'}]",[],73,0
+631,Eurotrash,40.71632,-73.96184,11211,5,"[{'alias': 'foodstands', 'title': 'Food Stands'}]",[],140,0
+632,Black Crescent,40.71889811,-73.9850475,10002,4,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'chicken_wings', 'title': 'Chicken Wings'}]",['delivery'],38,0
+633,Itamae Japanese Sushi,40.718029,-73.994164,10002,5,"[{'alias': 'food', 'title': 'Food'}]",[],86,0
+634,Altar,40.67349,-73.9574,11238,5,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",[],3,0
+635,Starr Bar,40.70513845,-73.9230539,11237,4,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'musicvenues', 'title': 'Music Venues'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",['delivery'],32,0
+636,La Sonrisa Empanada,40.71455002,-74.00714111,10001,4,"[{'alias': 'empanadas', 'title': 'Empanadas'}]",[],125,0
+637,Chimi Internacional,40.69841385,-73.92362213,11221,5,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'dominican', 'title': 'Dominican'}]",[],32,0
+638,Doaba Deli,40.7994,-73.9624,10025,4.5,"[{'alias': 'indpak', 'title': 'Indian'}, {'alias': 'pakistani', 'title': 'Pakistani'}, {'alias': 'bangladeshi', 'title': 'Bangladeshi'}]","['pickup', 'delivery']",6,0
+639,Gowanus Gardens,40.67647,-73.98394,11215,5,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}, {'alias': 'newamerican', 'title': 'American (New)'}]",[],76,0
+640,Govinda's Vegetarian Lunch,40.68771,-73.98241,11217,4.5,"[{'alias': 'vegetarian', 'title': 'Vegetarian'}, {'alias': 'vegan', 'title': 'Vegan'}, {'alias': 'indpak', 'title': 'Indian'}]",['delivery'],40,0
+641,Butler,40.72049,-73.99849,10013,4.5,"[{'alias': 'cafes', 'title': 'Cafes'}]",[],86,0
+642,Blue Sky Deli,40.7922,-73.93854,10029,4.5,"[{'alias': 'delis', 'title': 'Delis'}, {'alias': 'grocery', 'title': 'Grocery'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",[],199,1
+643,Rooftop Reds,40.70257339,-73.96989847,11205,4,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]","['pickup', 'delivery']",188,0
+644,Saishin,40.73993,-74.00584,10014,5,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'sushi', 'title': 'Sushi Bars'}]",[],122,0
+645,Pierogi Boys,40.7530915,-73.9836137,10018,4,"[{'alias': 'polish', 'title': 'Polish'}]",[],98,0
+646,Sushi Noz,40.77385,-73.95813,10075,4.5,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'seafood', 'title': 'Seafood'}]","['pickup', 'delivery']",45,1
+647,Pho Bang Restaurant,40.71952,-73.99657,10013,4,"[{'alias': 'vietnamese', 'title': 'Vietnamese'}]",['delivery'],86,1
+648,Hatzlacha Supermarket,40.69844288,-73.95707714,11205,4.5,"[{'alias': 'intlgrocery', 'title': 'International Grocery'}]",[],11,0
+649,Inka Brasa,40.67658,-73.84414,11417,5,"[{'alias': 'peruvian', 'title': 'Peruvian'}]","['pickup', 'delivery']",161,0
+650,Marcy Jungle,40.70908014,-73.95748794,11211,5,"[{'alias': 'food', 'title': 'Food'}]",[],132,0
+651,Kulushkat,40.66123,-73.96057,11225,4,"[{'alias': 'mideastern', 'title': 'Middle Eastern'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]","['pickup', 'delivery']",85,0
+652,Seed + Mill,40.7420723,-74.0056454,10011,4.5,"[{'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'icecream', 'title': 'Ice Cream & Frozen Yogurt'}, {'alias': 'gluten_free', 'title': 'Gluten-Free'}]","['pickup', 'delivery']",122,1
+653,Baresha Cafe,40.72756,-74.00528,10014,4,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'delis', 'title': 'Delis'}]",['delivery'],101,0
+654,Bronson's Burgers,40.72317,-73.99568,10012,4,"[{'alias': 'burgers', 'title': 'Burgers'}]",[],86,0
+655,L Mo's Market,40.7055,-73.93194,11206,4,"[{'alias': 'grocery', 'title': 'Grocery'}]",[],103,1
+656,Goodfellas Pizzeria of LIC,40.75334,-73.93716,11101,4.5,"[{'alias': 'pizza', 'title': 'Pizza'}]",['delivery'],23,0
+657,Caf? Paulette,40.68960941,-73.97591736,11217,3.5,"[{'alias': 'french', 'title': 'French'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]","['pickup', 'delivery']",190,0
+658,Wafels and Dinges,40.73294,-74.01001,10014,3,"[{'alias': 'belgian', 'title': 'Belgian'}, {'alias': 'waffles', 'title': 'Waffles'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]","['pickup', 'delivery']",101,0
+659,46 Mott Rookies,40.71521,-73.99861,10013,4.5,"[{'alias': 'cantonese', 'title': 'Cantonese'}]",[],86,0
+660,Shopsin's,40.718595,-73.988157,10002,4,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'burgers', 'title': 'Burgers'}]",['delivery'],141,0
+661,The Landing At Pier 45,40.7331658,-74.010753,10014,4.5,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'beergardens', 'title': 'Beer Gardens'}, {'alias': 'pizza', 'title': 'Pizza'}]",[],101,0
+662,Triple D's,40.6736622,-73.9627911,11238,4.5,"[{'alias': 'caribbean', 'title': 'Caribbean'}, {'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",[],3,0
+663,Otafuku,40.72925052,-73.98579597,10003,3.5,"[{'alias': 'japanese', 'title': 'Japanese'}]",['delivery'],109,0
+664,Harper's Bread House Inc.,40.71771,-73.99303,10002,4,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",['delivery'],62,0
+665,Blue?? Roadside,40.7204904,-74.037296,7302,4,"[{'alias': 'foodstands', 'title': 'Food Stands'}]",[],121,0
+666,The Green Place Nigeria Restaurant,40.677021,-73.911163,11233,3.5,"[{'alias': 'african', 'title': 'African'}]",['delivery'],25,0
+667,The Kedai Nasi,40.67170334,-73.93540192,11213,5,"[{'alias': 'fooddeliveryservices', 'title': 'Food Delivery Services'}]",[],156,0
+668,Heidi's House By The Side Of The Road,40.772189,-73.955029,10075,4.5,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'comfortfood', 'title': 'Comfort Food'}]",['delivery'],177,0
+669,71 NY Halal Food,40.75836295,-73.97056367,10022,5,"[{'alias': 'halal', 'title': 'Halal'}]",[],66,0
+670,Peking BBQ,40.7457277,-73.9062112,11377,4,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'peruvian', 'title': 'Peruvian'}, {'alias': 'bbq', 'title': 'Barbeque'}]",['delivery'],48,1
+671,Mighty Pita,40.7367695,-73.97887495,10010,4,"[{'alias': 'falafel', 'title': 'Falafel'}, {'alias': 'fooddeliveryservices', 'title': 'Food Delivery Services'}, {'alias': 'burgers', 'title': 'Burgers'}]","['pickup', 'delivery']",2,0
+672,Mad Tropical,40.7024142,-73.9266295,11237,4,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'latin', 'title': 'Latin American'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]","['pickup', 'delivery']",32,1
+673,Peasant Stock,40.718045,-73.988052,10002,4.5,"[{'alias': 'soup', 'title': 'Soup'}]",[],141,0
+674,Jerk Shack Caribbean Food Truck,40.6340762,-74.1230641,10301,5,"[{'alias': 'caribbean', 'title': 'Caribbean'}, {'alias': 'foodtrucks', 'title': 'Food Trucks'}]","['pickup', 'delivery']",152,1
+675,Pita Point,40.68178,-73.90916,11233,5,"[{'alias': 'mideastern', 'title': 'Middle Eastern'}]",['delivery'],25,0
+676,Footprints Cafe,40.6787089,-73.9498561,11216,3.5,"[{'alias': 'caribbean', 'title': 'Caribbean'}, {'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'salad', 'title': 'Salad'}]",[],163,0
+677,Los Perros De Chucho,40.755028,-73.9215679,11101,4.5,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'latin', 'title': 'Latin American'}, {'alias': 'cafes', 'title': 'Cafes'}]","['pickup', 'delivery']",72,0
+678,Manna One,40.712642,-73.996864,10038,4,"[{'alias': 'bakeries', 'title': 'Bakeries'}]",['delivery'],62,0
+679,Suede,40.64455,-73.92342,11203,3.5,"[{'alias': 'caribbean', 'title': 'Caribbean'}]","['pickup', 'delivery']",43,0
+680,Rosa Deli & Grocery,40.722675,-73.977035,10009,5,"[{'alias': 'grocery', 'title': 'Grocery'}]",[],154,0
+681,Rosario Pizza,40.6941599,-73.91848,11221,4,"[{'alias': 'pizza', 'title': 'Pizza'}]",['delivery'],75,0
+682,65 Market Place,40.7071762,-74.01235,10006,3,"[{'alias': 'fooddeliveryservices', 'title': 'Food Delivery Services'}]",[],147,0
+683,Mamacita's Restaurant,40.825455,-73.8899,10459,3,"[{'alias': 'spanish', 'title': 'Spanish'}, {'alias': 'latin', 'title': 'Latin American'}]","['pickup', 'delivery']",42,0
+684,Hardee On Utica,40.67168333,-73.93059026,11213,4,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'chinese', 'title': 'Chinese'}]",['delivery'],156,0
+685,Fuku,40.751254,-73.9424834,11101,1,"[{'alias': 'fooddeliveryservices', 'title': 'Food Delivery Services'}, {'alias': 'chickenshop', 'title': 'Chicken Shop'}]",['delivery'],23,0
+686,Kolkata Chai Cafe,40.72291487,-73.98321707,10009,4.5,"[{'alias': 'cafes', 'title': 'Cafes'}]",['delivery'],154,0
+687,Daily Provisions,40.72924,-74.00369,10014,4.5,"[{'alias': 'cafes', 'title': 'Cafes'}]",['delivery'],33,0
+688,BBF,40.72193,-73.98753,10002,3.5,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'sushi', 'title': 'Sushi Bars'}]",[],141,0
+689,King's Cafe,40.718911,-73.985268,10002,4,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]","['pickup', 'delivery']",38,0
+690,Tiny's & The Bar Upstairs,40.716698,-74.00816,10013,4,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}]","['pickup', 'delivery']",125,0
+691,Jaew Hon New York,40.7464487,-73.8938216,11372,4.5,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'hotpot', 'title': 'Hot Pot'}]","['pickup', 'delivery']",4,0
+692,The Food Box,40.741419,-73.936128,11101,4.5,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",[],23,1
+693,Cantina Taqueria & Tequila Bar,40.80033899,-73.95497595,10026,4,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'latin', 'title': 'Latin American'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]","['pickup', 'delivery']",28,0
+694,Westside Coffee Shop,40.72009083,-74.00366469,10013,4.5,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'latin', 'title': 'Latin American'}, {'alias': 'mexican', 'title': 'Mexican'}]","['pickup', 'delivery']",194,0
+695,Paisley,40.722387,-74.0095662,10013,4.5,"[{'alias': 'indpak', 'title': 'Indian'}]","['pickup', 'delivery']",125,0
+696,Samurice,40.71891348,-74.00107618,10013,3.5,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'food_court', 'title': 'Food Court'}]",['delivery'],194,1
+697,Trinidad Golden Place Restaurant,40.6718291,-73.95052532,11216,4.5,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'trinidadian', 'title': 'Trinidadian'}]",['delivery'],145,0
+698,Bar Camillo,40.68653,-73.9444,11216,4.5,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]","['pickup', 'delivery']",163,0
+699,Bar Camillo,40.68653,-73.9444,11216,4.5,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]","['pickup', 'delivery']",163,0
+700,Rex,40.768818,-73.988525,10019,4.5,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'bakeries', 'title': 'Bakeries'}]",['delivery'],90,0
+701,Taqueria Mobil,40.698995,-73.910912,11237,5,"[{'alias': 'tacos', 'title': 'Tacos'}, {'alias': 'foodtrucks', 'title': 'Food Trucks'}]",['delivery'],130,0
+702,Savino's Quality Pasta,40.71525574,-73.94670105,11211,4.5,"[{'alias': 'pastashops', 'title': 'Pasta Shops'}]",[],14,0
+703,"Tacos, Twins and Trains Taco Cart",40.7056431,-73.9333922,11206,4.5,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'mexican', 'title': 'Mexican'}]",[],103,0
+704,Abilene,40.67892939,-73.9977479,11231,3.5,"[{'alias': 'divebars', 'title': 'Dive Bars'}, {'alias': 'lounges', 'title': 'Lounges'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",['delivery'],59,0
+705,Mr. Khao Man Gai,40.7467196,-73.8923393,11372,4.5,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'hainan', 'title': 'Hainan'}, {'alias': 'foodtrucks', 'title': 'Food Trucks'}]",[],4,0
+706,Levain Bakery,40.71591,-73.95924,11211,4.5,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'desserts', 'title': 'Desserts'}]",['delivery'],140,0
+707,Mama??,40.755723,-73.941751,11101,4.5,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'spanish', 'title': 'Spanish'}]",[],23,0
+708,Jerk Pit,40.65987667,-73.9503474,11225,3.5,"[{'alias': 'caribbean', 'title': 'Caribbean'}]",[],191,0
+709,Kuya's Lechon,40.73466,-73.882046,11373,3.5,"[{'alias': 'filipino', 'title': 'Filipino'}]",['delivery'],118,0
+710,El Olomega,40.6721316,-74.004183,11231,4.5,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'latin', 'title': 'Latin American'}]",[],59,0
+711,Japan Premium Beef,40.7264282,-73.9922083,10012,5,"[{'alias': 'meats', 'title': 'Meat Shops'}]",[],109,0
+712,Barbuto,40.73885,-74.00932,10014,4,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'newamerican', 'title': 'American (New)'}]",[],122,0
+713,Delicacy,40.754207,-73.979179,10017,3.5,"[{'alias': 'korean', 'title': 'Korean'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]","['pickup', 'delivery']",88,0
+714,Nostrand Coffee Roasters,40.68942,-73.9706,11205,4.5,"[{'alias': 'coffeeroasteries', 'title': 'Coffee Roasteries'}]",['delivery'],73,0
+715,Snow Wolf,40.709947,-73.968606,11249,3.5,"[{'alias': 'icecream', 'title': 'Ice Cream & Frozen Yogurt'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",[],39,0
+716,Joor Chicken & Frozen Desserts,40.712757,-73.990303,10002,4,"[{'alias': 'chicken_wings', 'title': 'Chicken Wings'}, {'alias': 'desserts', 'title': 'Desserts'}]","['pickup', 'delivery']",62,0
+717,The Black Flamingo,40.67908468,-74.0106728,11231,4.5,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'cafes', 'title': 'Cafes'}]",['delivery'],91,0
+718,The Tavern by WS,40.7551434,-74.0022535,10001,4.5,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'brasseries', 'title': 'Brasseries'}]",[],150,0
+719,Acuario Cafe,40.75426,-73.99272,10018,4,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'dominican', 'title': 'Dominican'}]",['delivery'],34,1
+720,Brooklyn Brew Shop,40.7040999,-73.9867,11201,5,"[{'alias': 'brewingsupplies', 'title': 'Brewing Supplies'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",[],80,0
+721,Kazi Halal,40.69164658,-73.99127197,11201,4.5,"[{'alias': 'halal', 'title': 'Halal'}]",['delivery'],19,0
+722,Taiki,40.68454335,-73.98377754,11217,4.5,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'seafood', 'title': 'Seafood'}]","['pickup', 'delivery']",40,0
+723,Brooklyn Hots,40.68748327,-73.96018057,11238,5,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",[],11,0
+724,Seaport Food Lab,40.7054623,-74.0016428,10038,4,"[{'alias': 'popuprestaurants', 'title': 'Pop-Up Restaurants'}]",[],105,0
+725,Breakfast Burritos El Donkey,40.74241072,-74.0060658,10011,4.5,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",['delivery'],122,0
+726,Kustard King,40.698415,-73.99625,11201,4.5,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'icecream', 'title': 'Ice Cream & Frozen Yogurt'}]",[],160,0
+727,Rochelles,40.722386,-73.991958,10002,4,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]",['delivery'],141,0
+728,Noglu,40.78365026,-73.956963,10128,4,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",['delivery'],45,0
+729,B?ng Bar,40.76829043,-73.9828748,10023,4,"[{'alias': 'korean', 'title': 'Korean'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",[],30,0
+730,La Esquina - Midtown,40.76429869,-73.9814605,10019,4,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'latin', 'title': 'Latin American'}]","['pickup', 'delivery']",30,0
+731,D'Antan|vino Naturale & cucina Italiana,40.6772982,-73.95882,11238,4.5,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",[],3,0
+732,Baron's,40.6908116,-73.953915,11205,4,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}]","['pickup', 'restaurant_reservation', 'delivery']",11,0
+733,Jimbos Hamburger Palace,40.80877,-73.92291,10454,4,"[{'alias': 'burgers', 'title': 'Burgers'}]",['delivery'],136,0
+734,Wheated,40.6465969,-73.97049503,11218,4.5,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'whiskeybars', 'title': 'Whiskey Bars'}]",['delivery'],60,0
+735,Old Rose,40.7383,-74.00932,10014,3.5,"[{'alias': 'italian', 'title': 'Italian'}]","['pickup', 'delivery']",122,0
+736,New Ivoire,40.8012735,-73.9422603,10035,4,"[{'alias': 'african', 'title': 'African'}]","['pickup', 'delivery']",28,0
+737,May's Bakery,40.7139499,-73.99376,10002,4.5,"[{'alias': 'bakeries', 'title': 'Bakeries'}]",[],62,0
+738,East 86th St. Deli & Grocery,40.77715,-73.9496,10028,4,"[{'alias': 'delis', 'title': 'Delis'}, {'alias': 'grocery', 'title': 'Grocery'}]",[],162,1
+739,Marrakesh Express,40.7203023,-73.9616976,11211,5,"[{'alias': 'moroccan', 'title': 'Moroccan'}]",[],140,0
+740,The Village Table,40.720917,-73.979431,10009,4,"[{'alias': 'fooddeliveryservices', 'title': 'Food Delivery Services'}]",[],154,0
+741,Louie's Luncheonette,40.735655,-73.95096,11222,4.5,"[{'alias': 'fooddeliveryservices', 'title': 'Food Delivery Services'}]",[],47,0
+742,Wings Lovers Food Truck,40.6855,-74.00385,11231,2,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}]",[],175,0
+743,Blue Bottle Coffee,40.71848,-74.00248,10013,3.5,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}]",['delivery'],194,0
+744,Yaso Tangbao,40.7547,-73.991055,10018,5,"[{'alias': 'fooddeliveryservices', 'title': 'Food Delivery Services'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'chinese', 'title': 'Chinese'}]","['pickup', 'delivery']",34,0
+745,Evelyn Fruits and Vegetables,40.707702,-73.945198,11206,4.5,"[{'alias': 'empanadas', 'title': 'Empanadas'}, {'alias': 'markets', 'title': 'Fruits & Veggies'}, {'alias': 'juicebars', 'title': 'Juice Bars & Smoothies'}]",['delivery'],193,0
+746,The Soul Snacks Cookie Company,40.8000916,-73.9098319,10454,4.5,"[{'alias': 'bakeries', 'title': 'Bakeries'}]",['delivery'],42,0
+747,Potato Corner,40.7344589,-73.8704971,11373,4.5,"[{'alias': 'hotdogs', 'title': 'Fast Food'}, {'alias': 'gourmet', 'title': 'Specialty Food'}, {'alias': 'chicken_wings', 'title': 'Chicken Wings'}]",['delivery'],118,0
+748,Lady Mara Cafe,40.750408,-74.003405,10001,5,"[{'alias': 'cafes', 'title': 'Cafes'}]",[],150,1
+749,Great Taste Bakery,40.71241,-73.99692,10038,5,"[{'alias': 'bakeries', 'title': 'Bakeries'}]",[],62,0
+750,Happy Express Cafe,40.7145133,-73.9924451,10002,4,"[{'alias': 'cantonese', 'title': 'Cantonese'}, {'alias': 'hkcafe', 'title': 'Hong Kong Style Cafe'}]",['delivery'],62,0
+751,Sugarland Garden & Cafe,40.69173329,-73.9486675,11216,3.5,"[{'alias': 'soulfood', 'title': 'Soul Food'}]",[],163,1
+752,The Malt House,40.728647,-73.999383,10012,4,"[{'alias': 'gastropubs', 'title': 'Gastropubs'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",['delivery'],33,0
+753,Thongyib Thai Cart,40.75985556,-73.97232587,10022,4.5,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'thai', 'title': 'Thai'}]",[],66,0
+754,Mina's,40.7456014,-73.94707,11101,4.5,"[{'alias': 'greek', 'title': 'Greek'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",['delivery'],23,1
+755,El Nuevo Yauca Restaurant,40.70155,-73.93651,11206,4.5,"[{'alias': 'puertorican', 'title': 'Puerto Rican'}]",['delivery'],103,0
+756,Mi Barrio Tortilleria Corporation,40.702324,-73.936333,11206,4.5,"[{'alias': 'grocery', 'title': 'Grocery'}, {'alias': 'importedfood', 'title': 'Imported Food'}]",[],103,1
+757,N 11th Street Cookout,40.72156211,-73.9579102,11249,4,"[{'alias': 'beergardens', 'title': 'Beer Gardens'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'hotdog', 'title': 'Hot Dogs'}]","['pickup', 'delivery']",140,1
+758,Casa del Toro,40.761115,-73.9940146,10036,4.5,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",['delivery'],155,0
+759,The Empanada Lady,40.68231201,-73.97953033,11217,4.5,"[{'alias': 'foodstands', 'title': 'Food Stands'}, {'alias': 'empanadas', 'title': 'Empanadas'}]",[],190,1
+760,Mon Cher Market,40.716682,-74.004707,10013,3,"[{'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'delis', 'title': 'Delis'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]","['pickup', 'delivery']",125,0
+761,Gotham Greens,40.67536047,-73.98872437,11215,5,"[{'alias': 'markets', 'title': 'Fruits & Veggies'}]",[],76,0
+762,El Sabroso,40.75408435,-73.99149001,10018,4,"[{'alias': 'latin', 'title': 'Latin American'}, {'alias': 'empanadas', 'title': 'Empanadas'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",['delivery'],34,0
+763,The Market Line,40.71827,-73.98806,10002,4,"[{'alias': 'food_court', 'title': 'Food Court'}]",[],141,0
+764,Greedi Kitchen,40.6763513,-73.9523247,11216,4.5,"[{'alias': 'vegan', 'title': 'Vegan'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]","['pickup', 'delivery']",145,0
+765,Kowloon Cafe,40.59982,-73.98976,11214,3,"[{'alias': 'hkcafe', 'title': 'Hong Kong Style Cafe'}]",['delivery'],95,0
+766,388 Cafe & Deli,40.714456,-73.99398989,10002,4.5,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'delis', 'title': 'Delis'}]",['delivery'],62,0
+767,Tita Food,40.6736,-73.93916,11225,5,"[{'alias': 'dominican', 'title': 'Dominican'}, {'alias': 'delis', 'title': 'Delis'}, {'alias': 'spanish', 'title': 'Spanish'}]",[],46,0
+768,265 Cherry Foodmarket,40.71115,-73.98932,10002,5,"[{'alias': 'grocery', 'title': 'Grocery'}]",[],62,0
+769,Red Fish,40.77691588,-73.93541032,11102,4,"[{'alias': 'seafood', 'title': 'Seafood'}]",[],131,1
+770,Room 205,40.67120801,-73.98849524,11215,5,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",[],76,0
+771,City Kitchen,40.75857539,-73.9885184,10036,4,"[{'alias': 'food_court', 'title': 'Food Court'}]","['pickup', 'delivery']",184,1
+772,Ferdinando's Focacceria,40.68418117,-74.00186777,11231,4,"[{'alias': 'italian', 'title': 'Italian'}]",['delivery'],175,0
+773,Tea Hub,40.64033,-74.01487,11220,4.5,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'bubbletea', 'title': 'Bubble Tea'}, {'alias': 'desserts', 'title': 'Desserts'}]",[],180,0
+774,Optimum Gourmet Deli,40.717746,-73.989686,10002,4.5,"[{'alias': 'delis', 'title': 'Delis'}, {'alias': 'bagels', 'title': 'Bagels'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",['delivery'],141,0
+775,The Stag's Head,40.755592,-73.968588,10022,4,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'beergardens', 'title': 'Beer Gardens'}]",['delivery'],66,0
+776,Fauzia?? Heavenly Delights,40.691196,-74.01969,10004,5,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}]",[],143,0
+777,Simmer Down Restaurant,40.678,-73.91063,11233,5,"[{'alias': 'caribbean', 'title': 'Caribbean'}]",[],25,0
+778,Soulful Foods,40.676609,-73.911165,11233,3.5,"[{'alias': 'caribbean', 'title': 'Caribbean'}, {'alias': 'soulfood', 'title': 'Soul Food'}, {'alias': 'comfortfood', 'title': 'Comfort Food'}]","['pickup', 'delivery']",25,0
+779,Leo,40.7125608,-73.9567886,11211,4,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'bakeries', 'title': 'Bakeries'}]","['pickup', 'delivery']",132,0
+780,Piemonte Home Made Ravioli,40.71947,-73.997001,10013,4.5,"[{'alias': 'gourmet', 'title': 'Specialty Food'}]",[],86,0
+781,Brooklyn Bridge Bistro,40.69641,-73.9884,11201,3,"[{'alias': 'newamerican', 'title': 'American (New)'}]","['pickup', 'delivery']",19,0
+782,Hong Kong Dim Sum,40.63576,-74.00973,11220,4,"[{'alias': 'chinese', 'title': 'Chinese'}]",['delivery'],151,0
+783,Sarge's Delicatessen Downtown,40.72613,-74.004997,10013,5,"[{'alias': 'fooddeliveryservices', 'title': 'Food Delivery Services'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]","['pickup', 'delivery']",194,0
+784,Mon Win Food Market Corp,40.719613,-73.995965,10013,5,"[{'alias': 'beverage_stores', 'title': 'Beverage Store'}, {'alias': 'grocery', 'title': 'Grocery'}, {'alias': 'convenience', 'title': 'Convenience Stores'}]",[],86,0
+785,L'epicurie,40.677963,-74.017662,11231,5,"[{'alias': 'gourmet', 'title': 'Specialty Food'}]",[],91,0
+786,sweetgreen,40.69202424,-73.98479594,11201,2,"[{'alias': 'vegan', 'title': 'Vegan'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}, {'alias': 'salad', 'title': 'Salad'}]","['pickup', 'delivery']",40,0
+787,Secchu Yokota,40.72284165,-73.9831015,10009,5,"[{'alias': 'japanese', 'title': 'Japanese'}]","['pickup', 'delivery']",154,0
+788,Mister French,40.7393774,-73.9889987,10010,4.5,"[{'alias': 'french', 'title': 'French'}]",['delivery'],16,0
+789,Mana,40.73143507,-74.10987408,7032,4.5,"[{'alias': 'spanish', 'title': 'Spanish'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'latin', 'title': 'Latin American'}]",[],54,0
+790,QQ Cafe,40.71354,-73.99493,10002,5,"[{'alias': 'chinese', 'title': 'Chinese'}]",['delivery'],62,0
+791,Bread Story New York,40.73198882,-73.98156217,10009,4.5,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'cakeshop', 'title': 'Patisserie/Cake Shop'}, {'alias': 'desserts', 'title': 'Desserts'}]",[],109,0
+792,Pastelitos Elvys,40.69815,-73.920776,11237,5,"[{'alias': 'dominican', 'title': 'Dominican'}, {'alias': 'empanadas', 'title': 'Empanadas'}]","['pickup', 'delivery']",32,0
+793,Shi Miao Dao - East Village,40.72904,-73.9881,10003,4,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'soup', 'title': 'Soup'}]",['delivery'],109,0
+794,Icca,40.71426825,-74.00770596,10007,4.5,"[{'alias': 'japanese', 'title': 'Japanese'}]",[],125,0
+795,Biryani House Cart,40.70865,-74.01011,10005,4,"[{'alias': 'indpak', 'title': 'Indian'}, {'alias': 'foodstands', 'title': 'Food Stands'}, {'alias': 'bangladeshi', 'title': 'Bangladeshi'}]",[],147,0
+796,Jhal NYC,40.75036,-73.94478,11101,5,"[{'alias': 'streetvendors', 'title': 'Street Vendors'}, {'alias': 'bangladeshi', 'title': 'Bangladeshi'}]",[],23,0
+797,Mr Q's Noodle,40.639484,-74.005767,11220,3.5,"[{'alias': 'noodles', 'title': 'Noodles'}]",[],31,0
+798,Duck Season,40.719633,-73.9618,11249,4,"[{'alias': 'foodstands', 'title': 'Food Stands'}, {'alias': 'chicken_wings', 'title': 'Chicken Wings'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",['delivery'],140,0
+799,Mr Q's Noodle,40.639484,-74.005767,11220,3.5,"[{'alias': 'noodles', 'title': 'Noodles'}]",[],31,0
+800,Duck Season,40.719633,-73.9618,11249,4,"[{'alias': 'foodstands', 'title': 'Food Stands'}, {'alias': 'chicken_wings', 'title': 'Chicken Wings'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",['delivery'],140,0
+801,Wingstop,40.71389,-73.90141,11379,1,"[{'alias': 'chicken_wings', 'title': 'Chicken Wings'}]",[],164,0
+802,Maite,40.69924,-73.926797,11221,4,"[{'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'empanadas', 'title': 'Empanadas'}]",['delivery'],153,0
+803,Bell's Jamaican Restaurant,40.6626863,-73.93995166,11203,5,"[{'alias': 'caribbean', 'title': 'Caribbean'}]",[],46,0
+804,XO Kitchen,40.71744998,-73.99604118,10013,3.5,"[{'alias': 'cantonese', 'title': 'Cantonese'}, {'alias': 'dimsum', 'title': 'Dim Sum'}]",['delivery'],86,0
+805,Le Fournil,40.727947,-73.988489,10003,4.5,"[{'alias': 'bakeries', 'title': 'Bakeries'}]",['delivery'],109,0
+806,Le Fatima Bar & Grill Restaurant,40.68728666,-73.91856865,11221,4.5,"[{'alias': 'spanish', 'title': 'Spanish'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'latin', 'title': 'Latin American'}]",['delivery'],75,0
+807,Lassen & Hennigs,40.69484,-73.9949,11201,4,"[{'alias': 'delis', 'title': 'Delis'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'bakeries', 'title': 'Bakeries'}]","['pickup', 'delivery']",19,0
+808,NYU Medical Center Cafeteria,40.74295955,-73.97373098,10016,4,"[{'alias': 'cafes', 'title': 'Cafes'}]",[],2,0
+809,Julia's,40.703143,-73.902956,11385,4.5,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}]","['pickup', 'delivery']",130,0
+810,Houseman,40.72572205,-74.0094019,10013,4,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",['delivery'],101,0
+811,6321 Yuan Bao,40.63339248,-74.01168877,11220,4.5,"[{'alias': 'chinese', 'title': 'Chinese'}]",['delivery'],151,0
+812,Death Ave,40.75105092,-74.00194808,10001,3.5,"[{'alias': 'greek', 'title': 'Greek'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]","['pickup', 'delivery']",150,0
+813,Fefita's Restaurant,40.6693115,-73.9336166,11213,5,"[{'alias': 'dominican', 'title': 'Dominican'}]","['pickup', 'delivery']",156,0
+814,King Halal Gyro,40.74135617,-74.05263516,7307,5,"[{'alias': 'halal', 'title': 'Halal'}]",[],110,0
+815,R17,40.70634,-74.00383,10038,3.5,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}]",[],105,0
+816,Aubi & Ramsa,40.74016233,-74.00780321,10014,4.5,"[{'alias': 'icecream', 'title': 'Ice Cream & Frozen Yogurt'}]",[],122,0
+817,Holy Crab Boiling,40.63698,-74.01139,11220,3.5,"[{'alias': 'cajun', 'title': 'Cajun/Creole'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'raw_food', 'title': 'Live/Raw Food'}]",[],151,0
+818,The Diggs,40.70740789,-73.92201582,11237,4.5,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}]",[],32,0
+819,The Anchored Inn,40.7091531,-73.9372291,11206,4,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",[],103,0
+820,Brooklyn Farmacy & Soda Fountain,40.68398,-73.99923,11231,4,"[{'alias': 'icecream', 'title': 'Ice Cream & Frozen Yogurt'}, {'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]","['pickup', 'delivery']",175,0
+821,Heaven's Hot Bagel,40.72131,-73.98436,10002,4,"[{'alias': 'bagels', 'title': 'Bagels'}, {'alias': 'delis', 'title': 'Delis'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",['delivery'],38,1
+822,Cafe con Libros,40.67434,-73.95256,11216,5,"[{'alias': 'themedcafes', 'title': 'Themed Cafes'}, {'alias': 'bookstores', 'title': 'Bookstores'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",['delivery'],145,1
+823,James Provisions,40.678984,-73.971489,11238,3.5,"[{'alias': 'newamerican', 'title': 'American (New)'}]",['delivery'],134,0
+824,Kennedy Fried Chicken,40.7305931,-74.061504,7306,4,"[{'alias': 'hotdogs', 'title': 'Fast Food'}]",['delivery'],169,0
+825,Marta,40.7445882,-73.9847936,10016,4,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}]",['delivery'],146,0
+826,Tofu Stall,40.63708432,-74.00789305,11220,5,"[{'alias': 'foodstands', 'title': 'Food Stands'}]",[],151,0
+827,Dominic's Italian Sausage,40.703617,-74.013139,10004,4,"[{'alias': 'foodstands', 'title': 'Food Stands'}]",[],147,1
+828,Bowery Tacos,40.7271309,-73.9919586,10003,4,"[{'alias': 'streetvendors', 'title': 'Street Vendors'}]",['delivery'],109,1
+829,Thai Taste,40.747448,-73.9408887,11101,4.5,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'thai', 'title': 'Thai'}]",[],23,0
+830,Syndicated Bar Theater Kitchen,40.705,-73.93308,11206,4,"[{'alias': 'movietheaters', 'title': 'Cinema'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}, {'alias': 'bars', 'title': 'Bars'}]","['pickup', 'delivery']",103,0
+831,Xiang Hotpot-Brooklyn,40.6339,-74.00467,11219,3.5,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'hotpot', 'title': 'Hot Pot'}]",['delivery'],151,0
+832,Rucola,40.68562,-73.98587,11217,4,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'diners', 'title': 'Diners'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",['delivery'],40,0
+833,Rong City,40.71500563,-73.99370145,10002,4.5,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'noodles', 'title': 'Noodles'}]",[],62,0
+834,Coffee 777,40.71040476,-74.00426525,10038,5,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",[],105,0
+835,The Breakers,40.717535,-73.948872,11211,4,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'danceclubs', 'title': 'Dance Clubs'}, {'alias': 'tacos', 'title': 'Tacos'}]",['delivery'],14,0
+836,Five & Dime,40.71264292,-74.00804747,10007,4.5,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]","['pickup', 'delivery']",125,0
+837,Mama Mecho,40.70341595,-73.92668907,11237,3,"[{'alias': 'dominican', 'title': 'Dominican'}]",[],32,0
+838,C&B,40.72522719,-73.9816303,10009,4.5,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",['delivery'],154,0
+839,Empanadas Cafe,40.7403199,-73.85311,11368,4.5,"[{'alias': 'empanadas', 'title': 'Empanadas'}]",['delivery'],69,1
+840,Fulton Hot Dog King,40.689988,-73.98433,11201,4.5,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}]",['delivery'],40,0
+841,noda,40.74478,-73.9881,10001,4.5,"[{'alias': 'sushi', 'title': 'Sushi Bars'}]",['delivery'],146,0
+842,Big Tiny,40.6834507,-73.992855,11231,4.5,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'french', 'title': 'French'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]","['pickup', 'delivery']",59,0
+843,D?ner Xpress,40.73746,-74.03203,7030,5,"[{'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'mexican', 'title': 'Mexican'}]","['pickup', 'delivery']",44,0
+844,Terry and Yaki,40.751485,-73.940142,11101,4,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}]",['delivery'],23,0
+845,Antojito Mexicano,40.74603807,-73.99051919,10001,4.5,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'foodstands', 'title': 'Food Stands'}]",[],146,0
+846,Red Hook Food Vendors,40.67184471,-74.00318325,11232,4,"[{'alias': 'foodstands', 'title': 'Food Stands'}, {'alias': 'salvadoran', 'title': 'Salvadoran'}, {'alias': 'foodtrucks', 'title': 'Food Trucks'}]",[],59,0
+847,Chipotle Mexican Grill,40.72607801,-73.90890603,11378,3.5,"[{'alias': 'hotdogs', 'title': 'Fast Food'}, {'alias': 'mexican', 'title': 'Mexican'}]","['pickup', 'delivery']",164,0
+848,Tacombi,40.73112,-74.00272,10014,4,"[{'alias': 'juicebars', 'title': 'Juice Bars & Smoothies'}, {'alias': 'tacos', 'title': 'Tacos'}]",[],33,0
+849,noda,40.74478,-73.9881,10001,4.5,"[{'alias': 'sushi', 'title': 'Sushi Bars'}]",['delivery'],146,0
+850,Le Fond,40.72584152,-73.95110321,11222,4.5,"[{'alias': 'french', 'title': 'French'}]",['delivery'],99,0
+851,Big Tiny,40.6834507,-73.992855,11231,4.5,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'french', 'title': 'French'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]","['pickup', 'delivery']",59,0
+852,D?ner Xpress,40.73746,-74.03203,7030,5,"[{'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'mexican', 'title': 'Mexican'}]","['pickup', 'delivery']",44,0
+853,Terry and Yaki,40.751485,-73.940142,11101,4,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}]",['delivery'],23,0
+854,Antojito Mexicano,40.74603807,-73.99051919,10001,4.5,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'foodstands', 'title': 'Food Stands'}]",[],146,0
+855,Red Hook Food Vendors,40.67184471,-74.00318325,11232,4,"[{'alias': 'foodstands', 'title': 'Food Stands'}, {'alias': 'salvadoran', 'title': 'Salvadoran'}, {'alias': 'foodtrucks', 'title': 'Food Trucks'}]",[],59,0
+856,Chipotle Mexican Grill,40.72607801,-73.90890603,11378,3.5,"[{'alias': 'hotdogs', 'title': 'Fast Food'}, {'alias': 'mexican', 'title': 'Mexican'}]","['pickup', 'delivery']",164,0
+857,Tacombi,40.73112,-74.00272,10014,4,"[{'alias': 'juicebars', 'title': 'Juice Bars & Smoothies'}, {'alias': 'tacos', 'title': 'Tacos'}]",[],33,0
+858,Citizens New York,40.75322752,-73.99939148,10001,2.5,"[{'alias': 'food_court', 'title': 'Food Court'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'fooddeliveryservices', 'title': 'Food Delivery Services'}]",[],150,0
+859,Port Liberte Wine and Deli,40.68612698,-74.07151401,7305,4,"[{'alias': 'delis', 'title': 'Delis'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",[],133,0
+860,Getaway,40.73363,-73.95511,11222,5,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}]",['delivery'],124,0
+861,Republic Restaurant & Lounge,40.6961031,-73.9340695,11221,5,"[{'alias': 'latin', 'title': 'Latin American'}]",[],153,0
+862,Nat's on Bank,40.73691,-74.00389,10014,3.5,"[{'alias': 'newamerican', 'title': 'American (New)'}]",[],122,0
+863,Native Noodles,40.74741,-73.9232,11104,3.5,"[{'alias': 'singaporean', 'title': 'Singaporean'}]","['pickup', 'delivery']",135,1
+864,The Tasty Waffle Company - Waffle Bar,40.6851074,-73.9292082,11221,5,"[{'alias': 'waffles', 'title': 'Waffles'}]","['pickup', 'delivery']",119,0
+865,The Bowl,40.71318784,-74.01167055,10007,4,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'foodtrucks', 'title': 'Food Trucks'}]",[],125,0
+866,Tim Blendz,40.638148,-73.953634,11210,5,"[{'alias': 'juicebars', 'title': 'Juice Bars & Smoothies'}]","['pickup', 'delivery']",158,0
+867,Adel's Halal Food,40.74514563,-73.97829928,10016,3,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'halal', 'title': 'Halal'}]",[],2,0
+868,Yan Wo Dou Buninc,40.71718,-73.99742,10013,3,"[{'alias': 'chinese', 'title': 'Chinese'}]",[],86,0
+869,Annie & Em?? Bakeshop,40.7401,-74.03134,7030,4.5,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'gluten_free', 'title': 'Gluten-Free'}, {'alias': 'desserts', 'title': 'Desserts'}]",[],44,0
+870,Chung Chun Kitchen,40.69314,-73.973,11205,3.5,"[{'alias': 'chinese', 'title': 'Chinese'}]",['delivery'],188,0
+871,GFG Bakery Cafe,40.71025,-74.00561,10038,4,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'greek', 'title': 'Greek'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]","['pickup', 'delivery']",105,0
+872,MUD,40.72905,-73.98668,10003,4,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]",[],109,1
+873,Baraka Buffet Restaurant,40.81688,-73.94605,10039,4.5,"[{'alias': 'african', 'title': 'African'}, {'alias': 'buffets', 'title': 'Buffets'}]",[],172,0
+874,Brooklyn Bodega Sub Hub,40.66224,-73.98529,11215,5,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'delis', 'title': 'Delis'}]",['delivery'],182,0
+875,La Trafila,40.66838343,-73.99454769,11215,5,"[{'alias': 'pastashops', 'title': 'Pasta Shops'}]",[],97,0
+876,Sabor Caribeno,40.69479,-73.93162,11221,4,"[{'alias': 'latin', 'title': 'Latin American'}]","['pickup', 'delivery']",153,0
+877,Chuan Jiang Hu BBQ,40.64386521,-74.0011849,11220,4.5,"[{'alias': 'szechuan', 'title': 'Szechuan'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'bbq', 'title': 'Barbeque'}]",['delivery'],31,0
+878,Arepas TO GO,40.75316566,-73.90678375,11377,4,"[{'alias': 'colombian', 'title': 'Colombian'}]","['pickup', 'delivery']",48,0
+879,Mr. Jones Supper Club,40.7317819,-74.0025704,10014,5,"[{'alias': 'australian', 'title': 'Australian'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",[],33,0
+880,Shelsky's of Brooklyn Appetizing & Delicateseen,40.689386,-73.9922942,11201,4,"[{'alias': 'seafoodmarkets', 'title': 'Seafood Markets'}, {'alias': 'bagels', 'title': 'Bagels'}]","['pickup', 'delivery']",19,1
+881,Longevousjoy,40.61312,-73.98246,11204,3.5,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'sushi', 'title': 'Sushi Bars'}]",[],57,0
+882,Quesadillas Do?a Maty,40.7972183,-73.9390182,10029,4,"[{'alias': 'mexican', 'title': 'Mexican'}]",['delivery'],28,0
+883,Brooklyn Pizzeria,40.67087,-73.93343,11213,1.5,"[{'alias': 'pizza', 'title': 'Pizza'}]","['pickup', 'delivery']",156,1
+884,Coney Shack,40.76140852,-73.98063545,10019,4.5,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'mexican', 'title': 'Mexican'}]",['delivery'],30,0
+885,Rosa's Pizza,40.72697,-73.89564,11378,4,"[{'alias': 'pizza', 'title': 'Pizza'}]",[],96,0
+886,Sobre Masa,40.70634,-73.93136,11237,5,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",[],103,0
+887,No Ho Juice Bar & Deli,40.7266505,-73.9968021,10012,4.5,"[{'alias': 'delis', 'title': 'Delis'}, {'alias': 'juicebars', 'title': 'Juice Bars & Smoothies'}]",['delivery'],33,0
+888,SS Seafood House,40.681495,-73.9346,11233,5,"[{'alias': 'seafood', 'title': 'Seafood'}]","['pickup', 'delivery']",119,0
+889,Lizzmonade,40.70286562,-73.99524,11201,4,"[{'alias': 'juicebars', 'title': 'Juice Bars & Smoothies'}, {'alias': 'bars', 'title': 'Bars'}]",[],160,0
+890,OK Indo - Kirula Enterprise,40.7367128,-73.8746599,11373,4,"[{'alias': 'grocery', 'title': 'Grocery'}]",[],118,0
+891,New Ah Ping Snacketeria,40.714019,-73.995353,10002,4,"[{'alias': 'chinese', 'title': 'Chinese'}]",[],62,0
+892,Oh K-Dog,40.85201,-73.97264,7024,4.5,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",[],36,0
+893,Tammam Cafe,40.672205,-73.9501378,11216,4.5,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'desserts', 'title': 'Desserts'}]","['pickup', 'delivery']",145,0
+894,Sant Ambroeus Brookfield,40.713713,-74.014797,10281,4,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'italian', 'title': 'Italian'}]",['delivery'],5,0
+895,Hot Mini Cakes,40.71838808,-73.99465624,10002,4.5,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'foodstands', 'title': 'Food Stands'}]",[],86,0
+896,Brooklyn Grange Farm & Farmstand,40.65906201,-74.0032047,11232,4.5,"[{'alias': 'farmersmarket', 'title': 'Farmers Market'}]",[],8,0
+897,Frost Restaurant,40.7183945,-73.9434941,11211,4,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",['delivery'],198,0
+898,Zaza Exotic,40.7175531,-73.95846752,11249,3.5,"[{'alias': 'importedfood', 'title': 'Imported Food'}, {'alias': 'candy', 'title': 'Candy Stores'}, {'alias': 'tobaccoshops', 'title': 'Tobacco Shops'}]",[],140,1
+899,GFG Bakery Cafe,40.71025,-74.00561,10038,4,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'greek', 'title': 'Greek'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]","['pickup', 'delivery']",105,0
+900,MUD,40.72905,-73.98668,10003,4,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]",[],109,0
+901,Baraka Buffet Restaurant,40.81688,-73.94605,10039,4.5,"[{'alias': 'african', 'title': 'African'}, {'alias': 'buffets', 'title': 'Buffets'}]",[],172,0
+902,Brooklyn Bodega Sub Hub,40.66224,-73.98529,11215,5,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'delis', 'title': 'Delis'}]",['delivery'],182,0
+903,La Trafila,40.66838343,-73.99454769,11215,5,"[{'alias': 'pastashops', 'title': 'Pasta Shops'}]",[],97,0
+904,Sabor Caribeno,40.69479,-73.93162,11221,4,"[{'alias': 'latin', 'title': 'Latin American'}]","['pickup', 'delivery']",153,1
+905,Chuan Jiang Hu BBQ,40.64386521,-74.0011849,11220,4.5,"[{'alias': 'szechuan', 'title': 'Szechuan'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'bbq', 'title': 'Barbeque'}]",['delivery'],31,0
+906,Arepas TO GO,40.75316566,-73.90678375,11377,4,"[{'alias': 'colombian', 'title': 'Colombian'}]","['pickup', 'delivery']",48,0
+907,Mr. Jones Supper Club,40.7317819,-74.0025704,10014,5,"[{'alias': 'australian', 'title': 'Australian'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",[],33,0
+908,Shelsky's of Brooklyn Appetizing & Delicateseen,40.689386,-73.9922942,11201,4,"[{'alias': 'seafoodmarkets', 'title': 'Seafood Markets'}, {'alias': 'bagels', 'title': 'Bagels'}]","['pickup', 'delivery']",19,0
+909,Longevousjoy,40.61312,-73.98246,11204,3.5,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'sushi', 'title': 'Sushi Bars'}]",[],57,0
+910,Quesadillas Do?a Maty,40.7972183,-73.9390182,10029,4,"[{'alias': 'mexican', 'title': 'Mexican'}]",['delivery'],28,0
+911,Brooklyn Pizzeria,40.67087,-73.93343,11213,1.5,"[{'alias': 'pizza', 'title': 'Pizza'}]","['pickup', 'delivery']",156,0
+912,Coney Shack,40.76140852,-73.98063545,10019,4.5,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'mexican', 'title': 'Mexican'}]",['delivery'],30,0
+913,Rosa's Pizza,40.72697,-73.89564,11378,4,"[{'alias': 'pizza', 'title': 'Pizza'}]",[],96,0
+914,Sobre Masa,40.70634,-73.93136,11237,5,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",[],103,0
+915,Genesis House,40.74149,-74.00846,10014,4,"[{'alias': 'korean', 'title': 'Korean'}]",[],122,0
+916,No Ho Juice Bar & Deli,40.7266505,-73.9968021,10012,4.5,"[{'alias': 'delis', 'title': 'Delis'}, {'alias': 'juicebars', 'title': 'Juice Bars & Smoothies'}]",['delivery'],33,1
+917,SS Seafood House,40.681495,-73.9346,11233,5,"[{'alias': 'seafood', 'title': 'Seafood'}]","['pickup', 'delivery']",119,0
+918,Lizzmonade,40.70286562,-73.99524,11201,4,"[{'alias': 'juicebars', 'title': 'Juice Bars & Smoothies'}, {'alias': 'bars', 'title': 'Bars'}]",[],160,0
+919,OK Indo - Kirula Enterprise,40.7367128,-73.8746599,11373,4,"[{'alias': 'grocery', 'title': 'Grocery'}]",[],118,0
+920,New Ah Ping Snacketeria,40.714019,-73.995353,10002,4,"[{'alias': 'chinese', 'title': 'Chinese'}]",[],62,0
+921,Oh K-Dog,40.85201,-73.97264,7024,4.5,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",[],36,0
+922,Who's Jac W,40.77665137,-73.95241412,10028,4,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",[],162,0
+923,Sant Ambroeus Brookfield,40.713713,-74.014797,10281,4,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'italian', 'title': 'Italian'}]",['delivery'],5,0
+924,Hot Mini Cakes,40.71838808,-73.99465624,10002,4.5,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'foodstands', 'title': 'Food Stands'}]",[],86,0
+925,Brooklyn Grange Farm & Farmstand,40.65906201,-74.0032047,11232,4.5,"[{'alias': 'farmersmarket', 'title': 'Farmers Market'}]",[],8,0
+926,Frost Restaurant,40.7183945,-73.9434941,11211,4,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",['delivery'],198,1
+927,Zaza Exotic,40.7175531,-73.95846752,11249,3.5,"[{'alias': 'importedfood', 'title': 'Imported Food'}, {'alias': 'candy', 'title': 'Candy Stores'}, {'alias': 'tobaccoshops', 'title': 'Tobacco Shops'}]",[],140,0
+928,Emma's Torch,40.67996,-73.99478,11231,5,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",['delivery'],59,0
+929,La Unica Birrieria,40.67167228,-73.95774711,11238,3.5,"[{'alias': 'tacos', 'title': 'Tacos'}, {'alias': 'foodtrucks', 'title': 'Food Trucks'}]",[],3,0
+930,Xi'an Famous Foods,40.7475637,-73.9417967,11101,4,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'burgers', 'title': 'Burgers'}]",[],23,0
+931,Now or Never Coffee,40.72295,-74.00456,10013,4.5,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}]",['delivery'],194,1
+932,Simon's BBQ,40.6416092,-74.0027924,11220,4,"[{'alias': 'bbq', 'title': 'Barbeque'}, {'alias': 'chinese', 'title': 'Chinese'}]",[],31,0
+933,Amarin Cafe,40.72345,-73.95087,11222,4,"[{'alias': 'thai', 'title': 'Thai'}]",['delivery'],99,0
+934,Mike's Coffee Shop,40.68967341,-73.96530542,11205,4,"[{'alias': 'diners', 'title': 'Diners'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",['delivery'],73,0
+935,Joe's Canteen,40.7124876,-74.0048032,10007,4,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}]",[],105,0
+936,L'imprimerie,40.69927,-73.91287,11237,4.5,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",['delivery'],130,0
+937,New John's Deli,40.67327,-73.98972,11215,5,"[{'alias': 'restaurants', 'title': 'Restaurants'}]",[],76,0
+938,Korilla BBQ Food Truck,40.69246,-73.99036,11201,3.5,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}]",[],19,0
+939,Halal Food Cart,40.70242,-74.01284,10004,4.5,"[{'alias': 'halal', 'title': 'Halal'}]",[],147,0
+940,Babe & Al,40.65482,-73.956588,11226,5,"[{'alias': 'cafes', 'title': 'Cafes'}]",[],148,0
+941,City Cookhouse,40.79756727,-73.94850254,10026,2.5,"[{'alias': 'diyfood', 'title': 'Do-It-Yourself Food'}]",[],28,0
+942,Rosaria Incorporated Mamma,40.72343,-73.9396299,11222,5,"[{'alias': 'delis', 'title': 'Delis'}, {'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",[],198,0
+943,Tbaar Park Slope,40.67791,-73.97929,11217,5,"[{'alias': 'bubbletea', 'title': 'Bubble Tea'}, {'alias': 'juicebars', 'title': 'Juice Bars & Smoothies'}]",[],76,1
+944,Ru Yi Grocery,40.71443817,-73.990969,10002,5,"[{'alias': 'convenience', 'title': 'Convenience Stores'}]",[],62,1
+945,Brooklyn Wing House,40.66888,-73.95084,11225,3,"[{'alias': 'chicken_wings', 'title': 'Chicken Wings'}]","['pickup', 'delivery']",145,0
+946,Reyes Deli & Grocery,40.66731,-73.99162,11215,4.5,"[{'alias': 'grocery', 'title': 'Grocery'}, {'alias': 'delis', 'title': 'Delis'}, {'alias': 'tacos', 'title': 'Tacos'}]",[],97,0
+947,Farra,40.717056,-74.00569763,10013,4.5,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'icecream', 'title': 'Ice Cream & Frozen Yogurt'}]",['delivery'],125,0
+948,Kuro Obi - Essex Crossing,40.7182566,-73.9881462,10002,3.5,"[{'alias': 'ramen', 'title': 'Ramen'}]",[],141,0
+949,El Gran Castillo De Jagua,40.676993,-73.971981,11238,4,"[{'alias': 'latin', 'title': 'Latin American'}, {'alias': 'dominican', 'title': 'Dominican'}]",['delivery'],134,0
+950,Pedacito De Mexico II,40.74123,-73.91756,11377,5,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'mexican', 'title': 'Mexican'}]",[],135,0
+951,Little House Cafe,40.74181281,-73.87464724,11373,4,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'malaysian', 'title': 'Malaysian'}, {'alias': 'panasian', 'title': 'Pan Asian'}]","['pickup', 'delivery']",118,0
+952,Courtside Cafe,40.790428,-73.923936,10035,4,"[{'alias': 'food_court', 'title': 'Food Court'}]",[],199,1
+953,Park Delicatessen,40.72573512,-73.9442773,11222,4.5,"[{'alias': 'delis', 'title': 'Delis'}, {'alias': 'meats', 'title': 'Meat Shops'}]","['pickup', 'delivery']",198,0
+954,Trump Grill,40.762429,-73.973795,10022,2,"[{'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",[],66,0
+955,Wong Kwong Hop,40.735727,-73.88152,11373,4.5,"[{'alias': 'chinese', 'title': 'Chinese'}]",['delivery'],118,0
+956,Trash Island,40.68396708,-73.92980284,11233,4.5,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'empanadas', 'title': 'Empanadas'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",['delivery'],119,0
+957,Samuels Top Ranking Fish And Chips,40.6510696,-73.9464111,11203,4,"[{'alias': 'caribbean', 'title': 'Caribbean'}, {'alias': 'fishnchips', 'title': 'Fish & Chips'}]",[],148,0
+958,Urbanspace Garment District,40.75478909,-73.98650303,7002,4,"[{'alias': 'streetvendors', 'title': 'Street Vendors'}]",[],98,0
+959,La Queen Tea House,40.63530133,-74.01112317,11220,3,"[{'alias': 'bbq', 'title': 'Barbeque'}, {'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'tea', 'title': 'Tea Rooms'}]",['delivery'],151,0
+960,Luckyim Thai,40.70658875,-74.00961304,10005,4,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'thai', 'title': 'Thai'}, {'alias': 'catering', 'title': 'Caterers'}]",[],147,0
+961,Lutze Eats,40.7209111,-74.0323251,7302,4,"[{'alias': 'food_court', 'title': 'Food Court'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",[],121,1
+962,Nyammings Caribbean Restaurant,40.68726,-73.95675,11238,4.5,"[{'alias': 'caribbean', 'title': 'Caribbean'}]",['delivery'],11,1
+963,Resobox  East Village,40.72482,-73.98779,10003,4.5,"[{'alias': 'culturalcenter', 'title': 'Cultural Center'}, {'alias': 'japanese', 'title': 'Japanese'}]","['pickup', 'delivery']",109,0
+964,Paradise Deli,40.68847,-73.96266,11238,3.5,"[{'alias': 'delis', 'title': 'Delis'}, {'alias': 'grocery', 'title': 'Grocery'}]",['delivery'],73,1
+965,Tsukushi,40.75414,-73.96648,10017,4,"[{'alias': 'japanese', 'title': 'Japanese'}]",[],104,0
+966,Hadja Marley,40.68147,-73.95611,11238,4,"[{'alias': 'african', 'title': 'African'}]",[],113,1
+967,The Salty Snapper,40.73205,-74.00215,10014,5,"[{'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'bars', 'title': 'Bars'}]",[],33,0
+968,The Roadside Grill,40.7685138,-73.965291,10065,4,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}]",['delivery'],66,0
+969,Dutch Boy Burger,40.672248,-73.957839,11238,3,"[{'alias': 'burgers', 'title': 'Burgers'}]","['pickup', 'delivery']",3,0
+970,Trini-Girl,40.67702881,-73.94996576,11216,3.5,"[{'alias': 'trinidadian', 'title': 'Trinidadian'}]",['delivery'],145,0
+971,The Milk Truck,40.69419865,-73.99989783,11201,2.5,"[{'alias': 'foodstands', 'title': 'Food Stands'}]",[],19,0
+972,Philippine Bread House,40.73079,-74.05576,7306,4,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'filipino', 'title': 'Filipino'}]",['delivery'],110,0
+973,Pho Cup,40.7232354,-73.9583513,11249,3,"[{'alias': 'vietnamese', 'title': 'Vietnamese'}, {'alias': 'soup', 'title': 'Soup'}, {'alias': 'popuprestaurants', 'title': 'Pop-Up Restaurants'}]",[],99,0
+974,Xiao Li Zhi Jian Bing Cart,40.63940164,-74.0055005,11220,5,"[{'alias': 'streetvendors', 'title': 'Street Vendors'}]",[],31,1
+975,Club Room at Soho Grand,40.7220519,-74.0045064,10013,4,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'lounges', 'title': 'Lounges'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",[],194,1
+976,Punjab On Third,40.73637,-73.98526,10003,3.5,"[{'alias': 'indpak', 'title': 'Indian'}, {'alias': 'pakistani', 'title': 'Pakistani'}]",['delivery'],16,0
+977,Uncle Sam Mediterranean Food,40.76016,-73.96983,10022,5,"[{'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]","['pickup', 'delivery']",66,0
+978,GoGo-Gi,40.83799455,-73.94168969,10032,4,"[{'alias': 'korean', 'title': 'Korean'}, {'alias': 'ramen', 'title': 'Ramen'}]",['delivery'],192,0
+979,Sweet Corner,40.642812,-74.016868,11220,3,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'customcakes', 'title': 'Custom Cakes'}]",[],180,0
+980,Burger UrWay,40.72575587,-73.95206016,11222,2,"[{'alias': 'burgers', 'title': 'Burgers'}]","['pickup', 'delivery']",99,0
+981,Metro Cafeteria and Restaurant,40.66726611,-73.99685149,11232,5,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'latin', 'title': 'Latin American'}, {'alias': 'foodtrucks', 'title': 'Food Trucks'}]",[],97,0
+982,Looking Glass Bar,40.69457,-73.93051,11221,3,"[{'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'bars', 'title': 'Bars'}]",['delivery'],153,0
+983,Heights Deli & Convenience,40.69529,-73.99563,11201,4.5,"[{'alias': 'convenience', 'title': 'Convenience Stores'}]",['delivery'],19,1
+984,Chowking,40.703987,-74.098805,7305,2,"[{'alias': 'filipino', 'title': 'Filipino'}]",[],112,1
+985,Belle Harlem,40.8173,-73.94171,10030,4.5,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'southern', 'title': 'Southern'}, {'alias': 'comfortfood', 'title': 'Comfort Food'}]",['delivery'],172,0
+986,Loring Place,40.73293765,-73.99758608,10011,4.5,"[{'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'pizza', 'title': 'Pizza'}]",['delivery'],33,0
+987,Brooklyn Braised,40.67998,-73.96295,11238,4.5,"[{'alias': 'fooddeliveryservices', 'title': 'Food Delivery Services'}, {'alias': 'catering', 'title': 'Caterers'}]",[],113,0
+988,Copacabana,40.75645633,-73.92938174,11106,4,"[{'alias': 'brazilian', 'title': 'Brazilian'}, {'alias': 'buffets', 'title': 'Buffets'}]",['delivery'],72,0
+989,Klein's,40.72087188,-73.9586929,11249,3.5,"[{'alias': 'tradamerican', 'title': 'American (Traditional)'}]",['delivery'],140,0
+990,S & DAD Bakery,40.64728,-74.01976,11220,5,"[{'alias': 'donuts', 'title': 'Donuts'}, {'alias': 'bakeries', 'title': 'Bakeries'}]",[],180,0
+991,Soogil,40.72551,-73.98838,10003,4,"[{'alias': 'korean', 'title': 'Korean'}, {'alias': 'french', 'title': 'French'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]","['pickup', 'delivery']",109,0
+992,K & B Caribbean Kitchen,40.670272,-73.94242,11213,4,"[{'alias': 'caribbean', 'title': 'Caribbean'}]",[],46,0
+993,Entwine,40.737398,-74.00796,10014,4,"[{'alias': 'mediterranean', 'title': 'Mediterranean'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]","['pickup', 'delivery']",122,0
+994,Rinc?n Melania,40.744785,-73.929137,11101,4.5,"[{'alias': 'latin', 'title': 'Latin American'}]","['pickup', 'delivery']",135,0
+995,Bed-Stuy Fish Fry,40.68528592,-73.92075124,11233,2.5,"[{'alias': 'seafood', 'title': 'Seafood'}]","['pickup', 'delivery']",75,1
+996,Salem's Hour,40.660554,-73.9507766,11225,4.5,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'bars', 'title': 'Bars'}]",['delivery'],191,0
+997,Casa Della Mozzarella Italian Deli,40.85533,-73.88742,10458,5,"[{'alias': 'delis', 'title': 'Delis'}, {'alias': 'cheese', 'title': 'Cheese Shops'}]",['delivery'],186,0
+998,Mamu Thai Noodle Truck,40.68075,-73.96612,11232,4,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'noodles', 'title': 'Noodles'}]",[],113,0

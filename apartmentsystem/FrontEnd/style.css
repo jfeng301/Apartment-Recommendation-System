@@ -1,0 +1,104 @@
+
+#map{
+    height: 65%;
+}
+
+#one_chip{
+  background-color: #000;
+  color:white;
+}
+
+.card-image{
+   height: 150px;
+}
+
+.noUi-connect {
+    background: black;
+}
+.noUi-horizontal .noUi-handle, .noUi-vertical .noUi-handle {
+    background: black;
+}
+.noUi-target.noUi-horizontal .noUi-tooltip {
+    background-color: black;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+}
+
+.pagination li {
+  display: block;
+ }
+
+
+.slider-col{
+    height: 35px;
+}
+
+.filter{
+    padding: 0!important;
+    height: 100%;/* below is for right slide bar button*/
+    position: relative;
+}
+
+button {
+    width: 100px;
+}
+
+/*section style*/
+.filter-label{
+
+    font-size: 12px!important;
+}
+
+.noUi-pips {
+    height: 80% !important;
+}
+
+
+.collapsible-header{
+
+    height:8vh!important;
+    font-size:10px!important;
+    text-align: center;
+}
+
+.collapsible-body{
+    font-size: 0.8rem;
+}
+
+.collapsible-header strong{
+    font-size:15px!important;
+    margin: auto;
+}
+
+.collapsible-header:hover{
+    box-shadow: 2px 0px 3px 0 rgba(0,0,0,0.4);
+}
+.collapsible-header:active{
+    background-color: #eceff1!important;
+    box-shadow: inset 0px -2px 3px 0 rgba(0,0,0,0.4);
+}
+#search-container{
+    overflow-y:hidden;
+}
+#search-container:hover{
+    overflow-y: scroll;
+}
+.page-num a,.page-num a i{
+    font-size: 1rem!important;
+}
+
+#filter-panel:hover{
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+#filter-panel{
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+.chip{
+    cursor: pointer;
+}
