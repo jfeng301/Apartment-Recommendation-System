@@ -1,14 +1,14 @@
 //-----------------------------------------------draw the slider-------------------------------------------------------//
 var crime_slider = document.getElementById("crime-selector");
 noUiSlider.create(crime_slider, {
-  start: [0, 100],
+  start: [0, 5],
   connect: true,
-  step: 5,
+  step: 0.1,
   behaviour: "drag",
   orientation: 'horizontal', // 'horizontal' or 'vertical'
   range: {
     'min': 0,
-    'max': 100
+    'max': 5
   },
   format: wNumb({
     decimals: 0
@@ -18,53 +18,53 @@ noUiSlider.create(crime_slider, {
 
 var rate_slider = document.getElementById("rate-selector");
 noUiSlider.create(rate_slider, {
-  start: [0, 100],
+  start: [0, 5],
   connect: true,
-  step: 5,
+  step: 0.1,
   behaviour: "drag",
   orientation: 'horizontal', // 'horizontal' or 'vertical'
   range: {
     'min': 0,
-    'max': 100
+    'max': 5
   },
   format: wNumb({
     decimals: 0
   }),
-  pips: {mode: 'range', density: 10}
+  pips: {mode: 'range' ,density: 10}
 });
 
 var trans_slider = document.getElementById("trans-selector");
 noUiSlider.create(trans_slider, {
-  start: [0, 100],
+  start: [0, 5],
   connect: true,
-  step: 5,
+  step: 0.1,
   behaviour: "drag",
   orientation: 'horizontal', // 'horizontal' or 'vertical'
   range: {
     'min': 0,
-    'max': 100
+    'max': 5
   },
   format: wNumb({
     decimals: 0
   }),
-  pips: {mode: 'range', density: 10}
+  pips: {mode: 'range' ,density: 10}
 });
 
 var res_slider = document.getElementById("res-selector");
 noUiSlider.create(res_slider, {
-  start: [0, 100],
+  start: [0, 5],
   connect: true,
-  step: 5,
+  step: 0.1,
   behaviour: "drag",
   orientation: 'horizontal', // 'horizontal' or 'vertical'
   range: {
     'min': 0,
-    'max': 100
+    'max': 5
   },
   format: wNumb({
     decimals: 0
   }),
-  pips: {mode: 'range',density: 10}
+  pips: {mode: 'range' ,density: 10}
 });
 
 var price_slider = document.getElementById("price-selector");
@@ -170,7 +170,7 @@ $.get('apt_final.csv', function(csvString) {
         iconUrl: 'apartment.png',
         iconSize: [35, 35]})
     }).bindPopup("</br>" + "<div class='chip' id='one_chip'> Name: "+ row.name +"</div>"
-      + "</br>" + "<div class='chip' id='one_chip'> Apartment Score: "+ parseInt(row.rating) +"</div>" 
+      + "</br>" + "<div class='chip' id='one_chip'> Apartment Score: "+ row.rating.toFixed(1) +"</div>" 
      +"</br>" +"<div class='chip'>" + row.keyword1 +"</div>"  +"<div class='chip'>" + row.keyword2 +"</div>"  + 
      "<div class='chip'>" + row.keyword3 +"</div>");
 
@@ -229,6 +229,8 @@ $.get('apt_final.csv', function(csvString) {
 
               "<strong>" + AllData[i].name+"</strong>" +
 
+              "<strong>" + AllData[i].rating.toFixed(1) +"</strong>" +
+
       "</div>" ;
 
       img_list[i].innerHTML=
@@ -250,6 +252,8 @@ function newPage(index){
       "<div class='collapsible-header'>"+
 
             "<strong>" + CurrentData[i + 4*page].name+"</strong>" +
+
+            "<strong>" + CurrentData[i + 4*page].rating.toFixed(1) +"</strong>" +
 
       "</div>" ;
 
@@ -311,7 +315,7 @@ function gettingresult(e){
         iconUrl: 'apartment.png',
         iconSize: [35, 35]})
     }).bindPopup("</br>" + "<div class='chip' id='one_chip'> Name: "+ row.name +"</div>"
-    + "</br>" + "<div class='chip' id='one_chip'> Apartment Score: "+ parseInt(row.rating) +"</div>" 
+    + "</br>" + "<div class='chip' id='one_chip'> Apartment Score: "+ row.rating.toFixed(1) +"</div>" 
    +"</br>" +"<div class='chip'>" + row.keyword1 +"</div>"  +"<div class='chip'>" + row.keyword2 +"</div>"  + 
    "<div class='chip'>" + row.keyword3 +"</div>");
 
@@ -391,7 +395,7 @@ function searchApartment(element){
           icon: L.icon({
             iconUrl: 'apartment.png',
             iconSize: [35, 35]})
-      }).bindPopupbindPopup(row.name + "</br>" + "<div class='chip' id='one_chip'> Apartment Rating:"+row.rating +"</div>" +"</br>" +"<div class='chip'>" + row.keyword1 +"</div>"  +"<div class='chip'>" + row.keyword2 +"</div>"  +"<div class='chip'>" + row.keyword3 +"</div>");
+      }).bindPopupbindPopup(row.name + "</br>" + "<div class='chip' id='one_chip'> Apartment Rating:"+row.rating.toFixed(1) +"</div>" +"</br>" +"<div class='chip'>" + row.keyword1 +"</div>"  +"<div class='chip'>" + row.keyword2 +"</div>"  +"<div class='chip'>" + row.keyword3 +"</div>");
 
       marker.on("mouseover", function () {
         this.openPopup();
@@ -459,7 +463,7 @@ function searchApartment(element){
         icon: L.icon({
           iconUrl: 'apartment.png',
           iconSize: [35, 35]})
-      }).bindPopup(row.name + "</br>" + "<div class='chip' id='one_chip'> Apartment Rating:"+row.rating +"</div>" +"</br>" +"<div class='chip'>" + row.keyword1 +"</div>"  +"<div class='chip'>" + row.keyword2 +"</div>"  +"<div class='chip'>" + row.keyword3 +"</div>");
+      }).bindPopup(row.name + "</br>" + "<div class='chip' id='one_chip'> Apartment Rating:"+row.rating.toFixed(1) +"</div>" +"</br>" +"<div class='chip'>" + row.keyword1 +"</div>"  +"<div class='chip'>" + row.keyword2 +"</div>"  +"<div class='chip'>" + row.keyword3 +"</div>");
 
       marker.on("mouseover", function () {
         this.openPopup();

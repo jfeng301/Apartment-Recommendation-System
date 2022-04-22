@@ -31,6 +31,11 @@
   display: block;
  }
 
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom:0;
+}
 
 .slider-col{
     height: 35px;
@@ -56,7 +61,51 @@ button {
     height: 80% !important;
 }
 
+/*------------------------------------------------------------------------------------------*/
+/* right slider style*/
 
+#search-slide{
+    position: relative;
+    display: none;
+    height:100vh;
+}
+#right-icon,#left-icon{
+    position: absolute;
+    padding:0;
+
+    top:50%;
+    right:00px;
+    width:20px;
+    height:45px;
+
+    z-index:500;
+
+    border:0px;
+    border-radius: 10%;
+    background-color: transparent;
+    box-shadow: 0px 0px 3px 0 rgba(0,0,0,0.4);
+
+}
+#right-icon:hover,#left-icon:hover{
+    box-shadow: 0px 0px 4px 0 rgba(0,0,0,0.6);
+}
+#right-icon-img,#left-icon-img{
+    width:40px;
+    height:40px;
+}
+#left-icon-img{
+    transform: rotateY(180deg);
+}
+
+.result{
+    /*
+    margin-bottom:10px;
+    margin-right:0px;
+    */
+    height:13vh;
+
+    /*border:1px solid black;*/
+}
 .collapsible-header{
 
     height:8vh!important;
@@ -89,6 +138,10 @@ button {
 .page-num a,.page-num a i{
     font-size: 1rem!important;
 }
+.collap-cat {
+    height:6vh!important;
+    font-size:12px!important;
+}
 
 #filter-panel:hover{
     overflow-y: scroll;
@@ -101,4 +154,41 @@ button {
 
 .chip{
     cursor: pointer;
+}
+
+.slider-star{
+  font-size: 1.5rem !important;
+  margin-right: 0 !important;
+  color: #FFEA61;
+}
+
+.slider-chip{
+    color: white;
+}
+
+.c-body{
+    text-align: right;
+}
+#search-count{
+    text-align: right;
+    font-size: 0.8rem!important;
+}
+.warning{
+    color:red!important;
+}
+.review-text:nth-of-type(1){
+    margin-top: 1vh;
+}
+.review-text:nth-of-type(1),.review-text:nth-of-type(3),.review-text:nth-of-type(5){
+    background-color: #e0f7fa;
+}
+.review-text{
+
+    height:12vh;
+    overflow:scroll;
+    border:1px solid #80deea;
+    border-radius: 3px;
+    padding:3px;
+    margin-bottom:1px;
+
 }
